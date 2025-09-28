@@ -4,7 +4,7 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   app: {
     baseURL: "/proleptin/",
-    buildAssetsDir: 'assets',
+    buildAssetsDir: '/assets/',
     head: {
       link: [
         {
@@ -128,6 +128,6 @@ export default defineNuxtConfig({
       legacy: false,
       locale: 'pl',
     },
-  }
-  // ssr: false,
+  },
+  ssr: false,
 })
