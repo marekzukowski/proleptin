@@ -3,7 +3,8 @@ import { defineNuxtConfig } from 'nuxt'
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   app: {
-    baseURL: '/proleptin/',
+    baseURL: "/proleptin/",
+    buildAssetsDir: 'assets',
     head: {
       link: [
         {
@@ -127,6 +128,6 @@ export default defineNuxtConfig({
       legacy: false,
       locale: 'pl',
     },
-  },
+  }
   // ssr: false,
 })
