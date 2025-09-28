@@ -1,0 +1,431 @@
+{
+  "global": {
+    "product": "Proleptin Forte",
+    "price": "1799",
+    "currency": "Kč",
+    "country": "Česko",
+    "title": "Proleptin Forte",
+    "description": "Doplněk stravy Proleptin Forte obsahuje inovativní složku DNF-10®, která umožňuje snížit počet konzumovaných kalorií o 600 kcal denně. Hlad pod kontrolou, menší apetit – snadnější hubnutí!"
+  },
+  "header": {
+    "nav": {
+      "dnf": {
+        "name": "DNF-10®",
+        "path": "dnf10"
+      },
+      "effects": {
+        "name": "VÝSLEDKY",
+        "path": "vysledky"
+      },
+      "reviews": {
+        "name": "HODNOCENÍ",
+        "path": "hodnoceni"
+      },
+      "contact": {
+        "name": "KONTAKT",
+        "path": "kontakt"
+      }
+    },
+    "order": {
+      "name": "OBJEDNAT TEĎ",
+      "path": "objednat-ted"
+    }
+  },
+  "language": {
+    "text": "JAZYK / Language:",
+    "choose": "VYBRAT JAZYK",
+    "back": "Zpět"
+  },
+  "contact": {
+    "phone": {
+      "title": "ZAVOLEJTE NÁM:",
+      "plus": "+420",
+      "number": "25570891",
+      "link": "+42025570891",
+      "copy": "Zkopírovat číslo do schránky",
+      "hours": "Infolinka je v provozu od pondělí do pátku v čase: 8:00 – 20:00.",
+      "price": "Cena za hovor podle sazby operátora."
+    },
+    "email": {
+      "title": "E-MAILOVÁ ADRESA:",
+      "address": "contact",
+      "copy": "Zkopírovat adresu do schránky"
+    },
+    "copied": "Zkopírováno!"
+  },
+  "legal": {
+    "privacy": {
+      "name": "Ochrana osobních údajů",
+      "path": "ochrana-osobnich-udaju"
+    },
+    "regulations": {
+      "name": "Obchodní podmínky",
+      "path": "obchodni-podminky"
+    }
+  },
+  "footer": {
+    "social": "Social media",
+    "form": {
+      "title": "NAPIŠTE NÁM",
+      "name": "Jméno:",
+      "surname": "Příjmení:",
+      "email": "E-mail:",
+      "message": "Zpráva:",
+      "submit": "Odeslat",
+      "error": "Jejda! Něco se pokazilo.",
+      "success": "Vaše zpráva byla odeslána."
+    },
+    "icons": {
+      "delivery": "Rychlé a bezpečné doručení",
+      "package": "Doprava zdarma",
+      "gurantee": "Záruka vrácení peněz"
+    },
+    "info": {
+      "title": "ETIKETA VÝROBKU",
+      "sub-1": "SLOŽENÍ:",
+      "text-1": "DNF-10® - patentovaný proteinový hydrolyzát z kvasinek Saccharomyces cerevisiae, rýžová mouka, celulóza - složka kapsle. DNF-10® jest majetkem firmy Fytexia.",
+      "sub-2": "ZPŮSOB POUŽITÍ:",
+      "text-2": "2 x 1 kapsle denně. Kapsli je třeba užít 30 minut před snídaní a obědem a poté vypijte sklenici vody.",
+      "sub-3": "UPOZORNĚNÍ:",
+      "text-3": "Nepřekračujte doporučenou denní dávku. Nepoužívejte v případě přecitlivělosti na některou ze složek přípravku. Přípravek se nedoporučuje těhotným a kojícím ženám, jakož i osobám mladším 18 let. Doplňky stravy by se neměly používat jako náhrada pestré stravy. Vyvážená strava a zdravý životní styl jsou důležité pro správné fungování organizmu.",
+      "sub-4": "PODMÍNKY SKLADOVÁNÍ:",
+      "text-4": "Přípravek se má uchovávat v uzavřeném obalu při pokojové teplotě (15-25 °C) na suchém místě, nepřístupném malým dětem. Chraňte před vlhkostí a světlem.",
+      "text-5": "Hmotnost netto: 32,4 g",
+      "text-6": "Trvanlivost: 24 měsíců ode dne výroby"
+    },
+    "dnf": "DNF -10® prodává firma Fytexia.",
+    "copy": "Copyright © 2022 Proleptin Forte www.proleptinforte.com. Všechna práva vyhrazena."
+  },
+  "home": {
+    "hero": {
+      "badge": "NOVINKA!",
+      "intro": "Proleptin Forte s inovativní složkou {0}",
+      "intro-0": "DNF-10®",
+      "title": "SNÍŽENÍ CHUTI K JÍDLU, SNADNĚJŠÍ HUBNUTÍ",
+      "subtitle": "Doplněk stravy určený pro lidi, kteří potřebují podporu při hubnutí"
+    },
+    "intro": {
+      "title": "APETIT POD KONTROLOU – PRO HUBNUTÍ BEZ ODŘÍKÁNÍ*",
+      "paragraph": "*Aktivní složkou kapslí Proleptin Forte je patentovaná látka s názvem {0}, jejíž účinnost při regulaci chuti k jídlu byla prokázána {1}",
+      "paragraph-0": "DNF-10®",
+      "paragraph-1": "klinickými studiemi",
+      "icon-1": "Snížení přijímaných kalorií až o ",
+      "icon-1-0": "600 kcal denně",
+      "icon-2": "Postupné a bezpečné shození nadbytečných kilogramů",
+      "icon-3": "Méně centimetrů na mírách (pas, boky, stehna)",
+      "icon-4": "Výsledky ",
+      "icon-4-0": "potvrzeny klinickými studiemi",
+      "studies": "Výsledky studií"
+    },
+    "dnf": {
+      "section-1": {
+        "subtitle": "DNF-10",
+        "title": "INOVATIVNÍ AKTIVNÍ SLOŽKA",
+        "paragraph-1": "Aktivní složkou kapslí Proleptin Forte je aktivní frakce získaná po hydrolýze proteinu hub {0} – tedy kvasnic, které lidstvo zná už po celá tisíciletí, využívaných v pekařství a pivovarnictví.",
+        "paragraph-1-0": "Saccharomyces cerevisiae",
+        "paragraph-2": "Během 10 let klinických studií bylo prokázáno, že tato látka pomáhá ovládat hlad.",
+        "button": "Stáhnout výsledky klinických studií"
+      },
+      "section-2": {
+        "title": "MECHANISMUS PŮSOBENÍ {0} SE OPÍRÁ O 3 PILÍŘE",
+        "title-0": "DNF-10®",
+        "icon-1": {
+          "title": "Stimulace hormonu sytosti:",
+          "ing": "leptinu",
+          "check-1": "Delší pocit sytosti po jídle",
+          "check-2": "Menší chuť dojídat se mezi jídly"
+        },
+        "icon-2": {
+          "title": "Brzdění hormonu hladu:",
+          "ing": "grelinu",
+          "check-1": "Menší pocit hladu před jídlem",
+          "check-2": "Konzumace méně jídla"
+        },
+        "icon-3": {
+          "title": "Brzdění {0}, který posiluje hlad",
+          "title-0": "neuropeptidu Y",
+          "check-1": "Kontrola chuti k jídlu mezi jídly",
+          "check-2": "Omezení chutí na sladké a slané snacky"
+        }
+      }
+    },
+    "benefits": {
+      "subtitle": "DNF-10",
+      "title": "DÍKY PROLEPTIN FORTE SE Z DIETY MŮŽE STÁT POTĚŠENÍ",
+      "check-1": "Menší hlad před jídlem",
+      "check-2": "Delší pocit sytosti po jídle",
+      "check-3": "Postupná a bezpečná redukce tělesné hmotnosti",
+      "icon-1": "Patentovaná složka DNF-10®",
+      "icon-2": "Snížení příjmu kalorií po prvních týdnech",
+      "icon-3": "{0} už po prvním měsíci",
+      "icon-3-0": "Výrazný pokles hmotnosti",
+      "icon-4": "Snížení tělesné hmotnosti plynoucí z redukce tukové (ne svalové) tkáně ",
+      "icon-5": "Snížení tělesné hmotnosti plynoucí do značné míry z redukce břišního tuku – {0}",
+      "icon-5-0": "výrazně zmenšený obvod pasu",
+      "studies-link": "Přečtěte si o výsledcích klinických studií",
+      "studies": "aktivní složky obsažené v doplňku stravy Proleptin Forte"
+    },
+    "capsule": {
+      "title": "KVALITA JE NAŠÍ VIZITKOU",
+      "paragraph": "Pro zajištění optimální podpory uplatňujeme vysoké standardy kvality. To vše proto, aby výsledky plynoucí z užívání kapslí Proleptin Forte splňovaly očekávání dokonce i těch nejnáročnějších zákazníků.",
+      "check-1": "veganské kapsle",
+      "check-2": "bez umělých barviv",
+      "check-3": "bez laktózy",
+      "check-4": "bez GMO"
+    },
+    "guarantee": {
+      "title": "ZÁRUKA VRÁCENÍ PENĚZ",
+      "paragraph": "Vyzkoušejte Proleptin Forte bez rizika. V případě nespokojenosti vám budou peníze vráceny."
+    },
+    "charts": {
+     "section-1": {
+        "title": "POSILOVAČ SYTOSTI",
+        "paragraph-1": "Osoby užívající DNF-10® výrazně snižují příjem kalorií po prvních týdnech užívání doplňku stravy. ",
+        "paragraph-2": "Po 2 měsících denní konzumace klesá až o 600 kalorií.",
+        "paragraph-3": "Po několika měsících užívání DNF-10 mají testovaní sníženou chuť na sladké a na jednotlivé 3 skupiny výživových makrosložek: sacharidy, tuky a bílkoviny.",
+        "paragraph-4": "Velmi důležitou výhodou je, že díky doplňku DNF-10® se obvod tak obtížně redukovatelné části těla, jako je pás, zmenší až o 5 cm za 2 měsíce.",
+        "info": "DNF-10® prodává firma Fytexia. Grafy vznikly na základě klinické studie, {0}",
+        "info-0": "s níž se můžete seznámit zde"
+      },
+      "section-2": {
+        "title": "POSTUPNÁ REDUKCE TĚLESNÉ HMOTNOSTI",
+        "paragraph-1": "Klinické studie potvrzují, že redukce tělesné hmotnosti je výrazná už od prvního měsíce užívání DNF-10®. ",
+        "paragraph-2": "100% zredukované tělesné hmotnosti pochází z tukové tkáně (ne ze svalové),",
+        "info": "DNF-10® prodává firma Fytexia. Grafy vznikly na základě klinické studie, {0}",
+        "info-0": "s níž se můžete seznámit zde"
+      },
+      "legend": {
+        "placebo": "Placebo",
+        "dnf": "DNF-10®",
+        "time": "W - týden",
+        "source": "Zdroj: Fytexia.com"
+      },
+      "chart-1": {
+        "title": "KALORICKÝ PŘÍJEM",
+        "text": "Změna denního příjmu kalorií během podávání doplňku",
+        "score": "Výsledek po 8 týdnech: -600 kcal / den"
+      },
+      "chart-2": {
+        "title": "SACHARIDY",
+        "text": "Změna denního příjmu kalorií pocházejících ze sacharidů během podávání doplňku",
+        "score": "Výsledek po 8 týdnech: -300 kcal / den"
+      },
+      "chart-3": {
+        "title": "TUKY",
+        "text": "Změna denního příjmu kalorií pocházejících z tuků během podávání doplňku",
+        "score": "Výsledek po 8 týdnech: -125 kcal / den"
+      },
+      "chart-4": {
+        "title": "TĚLESNÁ HMOTNOST",
+        "text": "Snížení hmotnosti během podávání doplňku",
+        "score": "Výsledek po 8 týdnech: -1,6 kg"
+      },
+      "chart-5": {
+        "title": "TUKOVÁ TKÁŇ",
+        "text": "Změna obsahu tělesného tuku v organismu během podávání doplňku",
+        "score": "Výsledek po 8 týdnech: -2 kg"
+      }
+    },
+    "cta": {
+      "reviews": "129 komentářů",
+      "title-1": "HLAD POD KONTROLOU",
+      "subtitle-1": "pro postupnou a bezpečnou redukci kilogramů",
+      "title-2": "Proleptin Forte",
+      "subtitle-2": "s inovativní aktivní složkou DNF-10®",
+      "check-1": "Dostupnost",
+      "check-2": "skladem",
+      "check-3": "Balení",
+      "check-4": "60 kapslí",
+      "check-5": "Dodávka",
+      "check-6": "1-3 pracovní dny",
+      "btn": "PŘIDAT DO KOŠÍKU",
+      "capsules": "kapslí",
+      "info": "snižte hmotnost o"
+    },
+    "faq": {
+      "title": "FAQ – poznejte odpovědi na nejčastěji pokládané otázky",
+      "more": "VÍCE",
+      "less": "MÉNĚ",
+      "question-1": {
+        "q": "Co je Proleptin Forte?",
+        "a": "Proleptin Forte je doplněk stravy určený pro ženy a muže, kteří se chtějí bezpečně zbavit nadbytečné tukové tkáně. Každá kapsle přípravku obsahuje 250 mg aktivní látky s názvem DNF-10®, jejíž účinnost při redukci tělesné hmotnosti byla prokázána klinickými studiemi."
+      },
+      "question-2": {
+        "q": "Jak působí DNF-10®?",
+        "a-1": "Mechanismus působení DNF-10® se opírá o 3 pilíře:",
+        "a-2": "Brzdící vliv na neuropeptid Y – což vede ke snížení chuti k jídlu během dne",
+        "a-3": "Brzdící vliv na grelin neboli „hormon hladu“ – což vede k snížení pocitu hladu před jídly",
+        "a-4": "Vliv regulující působení leptinu, tedy „hormonu sytosti“ – což vede k delšímu pocitu sytosti po jídlech",
+        "a-5": "To vše ovlivňuje {0} a vede to k bezpečné redukci tělesné hmotnosti. Důležité je, že k redukci tělesné hmotnosti dochází 100% z tukové tkáně. ",
+        "a-5-0": "snížení příjmu kalorií až o 600 kcal denně"
+      },
+      "question-3": {
+        "q": "Jak užívat Proleptin Forte?",
+        "a": "Doplněk stravy se užívá 2krát denně, po 1 kapsli. První kapsle by měla být užita 30 minut před snídaní, druhá 30 minut před obědem. Kapsli zapijte sklenicí vody."
+      },
+      "question-4": {
+        "q": "Na jak dlouho stačí jedno balení kapslí Proleptin Forte?",
+        "a": "Jedno balení obsahuje 60 kapslí a stačí na 30 dnů užívání."
+      },
+      "question-5": {
+        "q": "Jaké jsou kontraindikace užívání Proleptin Forte?",
+        "a": "Doplněk stravy neužívejte v případě přecitlivělosti nebo alergie na kteroukoliv jeho složku. Produkt by také neměly užívat děti a těhotné a kojící ženy. "
+      },
+      "question-6": {
+        "q": "Má užívání vedlejší účinky?",
+        "a": "Vysoce kvalitní vybrané složky by neměly vyvolávat vedlejší účinky. Doplněk stravy neužívejte v případě přecitlivělosti nebo alergie na kteroukoliv jeho složku. Jejich podrobný seznam se nachází na k balení přiloženém letáku, který si je nutné přečíst před užitím první kapsle. "
+      },
+      "question-7": {
+        "q": "Kdy uvidím první výsledky?",
+        "a": "To je individuální záležitost a závisí na přirozených predispozicích každého člověka. Obvykle lze první výsledky očekávat už během prvního týdne užívání. "
+      },
+      "question-8": {
+        "q": "Byl Proleptin Forte laboratorně testován?",
+        "a": "Samozřejmě. Výrobek byl otestován a schválen k použití, účinnost aktivní látky DNF-10® byla potvrzena klinickými studiemi."
+      },
+      "question-9": {
+        "q": "Jak je výrobek zabalen při doručení?",
+        "a": "Vaše pohodlí je naší prioritou. Všechny zásilky jsou zabaleny do diskrétní krabice, které ničím nenaznačuje obsah balíčku. Nikdo nepovolaný se nedozví, co je uvnitř. "
+      },
+      "question-10": {
+        "q": "Je možná doprava do zahraničí?",
+        "a": "Ano. Zásilku lze odeslat do téměř všech zemí Evropské unie. "
+      },
+      "question-11": {
+        "q": "Jak dlouho budu muset čekat na doručení?",
+        "a": "Doba čekání na doručení je v České republice obvykle do 3 pracovních dnů, i když balíček často dorazí už po 1 dni. V případě zahraničních zásilek se čekací doba může nepatrně prodloužit – závisí to na vzdálenosti a kurýrní společnosti. Až vás konzultant telefonicky kontaktuje pro potvrzení doručovací adresy, stanoví také předpokládaný termín doručení. "
+      },
+      "question-12": {
+        "q": "Lze zásilku zaplatit při převzetí?",
+        "a": "Ano. Umožňujeme všechny nejsnadnější formy platby, včetně možnosti platby na dobírku."
+      },
+      "question-13": {
+        "q": "Jak vypadá proces podávání objednávky?  ",
+        "a": "Objednávka se podává prostřednictvím těchto webových stránek, kliknutím na tlačítko „PŘIDAT DO KOŠÍKU“ a vyplněním objednávkového formuláře. Následně vás konzultant bude telefonicky kontaktovat pro potvrzení doručovací adresy. "
+      }
+    },
+    "reviews": {
+      "title": "SPOKOJENÍ ZÁKAZNÍCI DOPORUČUJÍ KAPSLE PROLEPTIN FORTE",
+      "subtitle": "Přečtěte si jejich hodnocení a... přidejte se k nim!",
+      "review-1": {
+        "stars": "4.9",
+        "text": "„Spolykala jsem obrovskou spoustu sladkostí a bylo to vidět na mém břiše... Začala jsem užívat Proleptin a moje chutě na sladké zmizely. Shodila jsem už 11 kg a jsem v sedmém nebi 🥰🥰🥰“",
+        "name": "Karolína, Otrokovice"
+      },
+      "review-2": {
+        "stars": "4.8",
+        "text": "„Hubnu už půl roku a dieta pro mě byla naprostým utrpením, horší než cvičení. A teď, díky těm kapslím, se konečně cítím najezená po SALÁTU! Když jdu do supermarketu, už mě to neláká, abych do košíku hodila nějakou čokoládu nebo tyčinku. Něco neuvěřitelného!!!“",
+        "name": "Aneta, Praha"
+      },
+      "review-3": {
+        "stars": "5.0",
+        "text": "„Co beru ty kapsle, úplně jsem se přestal přejídat. Místo toho jsem začal chodit do posilovny a už mi na váze ubylo 16 kg.“",
+        "name": "Michal, Ostrava"
+      },
+      "review-4": {
+        "stars": "4.5",
+        "text": "„Přesvědčilo mě to, že je tento přípravek vědecky otestovaný. Nedělá zázraky, ale hlad je opravdu menší a týden za týdnem kila ubývají. Doporučuji. 😊”",
+        "name": "Tereza, Kutná Hora"
+      },
+      "review-5": {
+        "stars": "4.7",
+        "text": "„Dříve jsem si dělal radost jídlem. Od té doby, co to beru, už neslintám při myšlence na fast food. Za mě je to mega.“",
+        "name": "Tomáš, Moravské Budějovice"
+      },
+      "review-6": {
+        "stars": "5.0",
+        "text": "„Doplněk stravy Proleptin Forte mi hodně pomohl méně jíst. Prostě to opravdu funguje! Doporučila jsem ho už všem přátelům, kteří chtěli zhubnout. A každý mi děkuje!“",
+        "name": "Natálie, Olomouc"
+      },
+      "review-7": {
+        "stars": "4.9",
+        "text": "„S těmi kapslemi jím konečně tolik, kolik opravdu potřebuji, a nedělám si ze žaludku popelnici.“",
+        "name": "Jaroslava, Liberec"
+      },
+      "review-8": {
+        "stars": "4.8",
+        "text": "„Vždycky jsem zajídal stres, hlavně v noci, a co polykám tyhle kapsle, noční záchvaty hladu pominuly a břicho se zmenšuje. Už mi v pase ubylo 8 cm. ”",
+        "name": "Dominik, Klášterec nad Ohří"
+      },
+      "review-9": {
+        "stars": "5.0",
+        "text": "„Objednala jsem si krabičkovou dietu, ale byla jsem na ní neustále hladová a protivná. Už 3 měsíce užívám Proleptin a cítím, že mi ta dieta stačí. Mám více síly a celkově optimismu. Více se hýbu a na váze už mám o 8 kg méně. Už se vejdu do kalhot z doby před dítětem! Fantastické 💛“",
+        "name": "Viktorie, Plzeň"
+      },
+      "review-10": {
+        "stars": "4.5",
+        "text": "„Nejlepší dieta je MŽ – méně žrát 😅 , a s tímhle doplňkem stravy se to vážně daří.“",
+        "name": "Karel, Špindlerův Mlýn"
+      },
+      "review-11": {
+        "stars": "4.7",
+        "text": "„Kdybych jenom věděla, že existuje nějaké DNF-10, tak bych si ušetřila spoustu let utrpení... Byla jsem hodně oplácaná a dnes chodím ve velikosti S a miluji svoje tvary! 🥲”",
+        "name": "Drahuše, Zlín"
+      },
+      "review-12": {
+        "stars": "5.0",
+        "text": "„Trochu jsem se bála, že mi po Proleptinu přestane chutnat jídlo. Ale tak to nefunguje. Chutná normálně, jen se člověk přestane přejídat a nadbytečný tuk mizí. Mám mínus 7 kg. Spokojenost“",
+        "name": "Marie, Sokolov"
+      },
+      "review-13": {
+        "stars": "4.9",
+        "text": "„Mi ty kapsle pomohly dostat se z morbidní obezity...“",
+        "name": "Pavel, Praha"
+      },
+      "review-14": {
+        "stars": "4.8",
+        "text": "„Proleptin zrychlil mé hubnutí před svatbou, už jsem se bála, že to nezvládnu! Cíl – mínus 10 kg za 3 měsíce – jsem naplnila za necelé 2 měsíce!“",
+        "name": "Lucie, Jihlava"
+      },
+      "info": "*Výsledky jsou individuální záležitostí a mohou se u jednotlivých osob lišit. {0}",
+      "info-0": "O výsledcích klinických studií si přečtěte zde"
+    }
+  },
+  "order": {
+    "steps": {
+      "contact": "KONTAKTNÍ ÚDAJE",
+      "address": "ADRESA",
+      "ssl": "Vaše údaje jsou 100% v bezpečí.",
+      "legend": "* Povinná pole"
+    },
+    "form": {
+      "firstname": "Jméno",
+      "lastname": "Příjmení",
+      "email": "E-mail:",
+      "phone": "Telefon",
+      "info": "Telefon je zapotřebí pro doručení kurýrem",
+      "next": "Další krok:",
+      "address": "Adresa (ulice, č.p.)",
+      "zip": "PSČ",
+      "city": "Město",
+      "country": "Stát",
+      "cod": "Platba při převzetí u kurýra (dobírka)",
+      "online": "Platba předem - elektronický převod",
+      "legal":  {
+        "terms": "Obchodními podmínkami",
+        "privacy": "Zásadami ochrany osobních údajů",
+        "text": "Seznámil jsem se s {0} a {1} a přijímám je"
+      },
+      "rodo": {
+        "privacy": "Zásady ochrany osobních údajů",
+        "text": "Správcem vašich osobních údajů je Nutrilab Sp. z o. o.. Údaje jsou zpracovávány pro potřeby podání a realizace objednávky a pro pomocné účely. Detaily: {0}."
+      },
+      "order": "Objednávám",
+      "errors": {
+        "required": "Vyplnění tohoto pole je povinné.",
+        "invalid": "Pole je vyplněno chybně."
+      }
+    },
+    "cart": {
+      "title": "Váš košík",
+      "package": "Balení 60 kapslí:",
+      "delivery": "Doprava:",
+      "quantity": "Počet:",
+      "total": "Celkem:"
+    }
+  },
+  "typ": {
+    "title": "Děkujeme!",
+    "subtitle": "Brzy vás bude kontaktovat náš konzultant a potvrdí doručovací údaje."
+  }
+}

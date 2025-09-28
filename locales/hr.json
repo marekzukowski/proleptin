@@ -1,0 +1,431 @@
+{
+  "global": {
+    "product": "Proleptin Forte",
+    "price": "333",
+    "currency": "kn",
+    "country": "Hrvatska",
+    "title": "Proleptin Forte",
+    "description": "Dodatak prehrani Proleptin Forte sadrži inovativni sastojak DNF-10® koji Vam omogućuje smanjenje broja unesenih kalorija za 600 kcal dnevno. Glad pod kontrolom, manji apetit - lakše mršavljenje!"
+  },
+  "header": {
+    "nav": {
+      "dnf": {
+        "name": "DNF-10®",
+        "path": "dnf10"
+      },
+      "effects": {
+        "name": "UČINCI KORIŠTENJA",
+        "path": "ucinci-koristenja"
+      },
+      "reviews": {
+        "name": "RECENZIJE",
+        "path": "recenzije"
+      },
+      "contact": {
+        "name": "KONTAKT",
+        "path": "kontakt"
+      }
+    },
+    "order": {
+      "name": "NARUČITE SADA",
+      "path": "narucite-sada"
+    }
+  },
+  "language": {
+    "text": "NYELV / Language:",
+    "choose": "ODABERITE JEZIK",
+    "back": "Nazad"
+  },
+  "contact": {
+    "phone": {
+      "title": "NAZOVITE NAS",
+      "plus": "+385",
+      "number": "17900735",
+      "link": "+38517900735",
+      "copy": "Kopirajte broj",
+      "hours": "Infolinija radi od ponedjeljka do petka: 8:00 - 20:00.",
+      "price": "Cijena za poziv prema tarifama operatera."
+    },
+    "email": {
+      "title": "E-MAIL ADRESA:",
+      "address": "contact",
+      "copy": "Kopirajte adresu"
+    },
+    "copied": "Kopirano"
+  },
+  "legal": {
+    "privacy": {
+      "name": "Politika privatnosti",
+      "path": "politika-privatnosti"
+    },
+    "regulations": {
+      "name": "Pravilnik",
+      "path": "pravilnik"
+    }
+  },
+  "footer": {
+    "social": "Social media",
+    "form": {
+      "title": "PIŠITE NAM",
+      "name": "Ime:",
+      "surname": "Prezime",
+      "email": "E-mail:",
+      "message": "Poruka:",
+      "submit": "Pošaljite",
+      "error": "Ups! Nešto nije u redu.",
+      "success": "Vaša poruka je poslana."
+    },
+    "icons": {
+      "delivery": "Brza i sigurna dostava",
+      "package": "Besplatna dostava",
+      "gurantee": "Garancija povrata novca"
+    },
+    "info": {
+      "title": "ETIKETA PROIZVODA",
+      "sub-1": "SASTOJCI:",
+      "text-1": "DNF-10® - patentirani proteinski hidrolizat dobiven od kvasca Saccharomyces cerevisiae, rižino brašno, celuloza - sastojak kapsule. DNF-10® je u vlasništvu tvrtke Fytexia.",
+      "sub-2": "NAČIN UPORABE:",
+      "text-2": "2 x 1 kapsula dnevno. Kapsulu treba uzeti 30 minuta prije doručka i ručka uz čašu vode.",
+      "sub-3": "UPOZORENJA:",
+      "text-3": "Nemojte prekoračivati dozu preparata preporučenu za konzumaciju tijekom dana. Ne koristiti u slučaju prekomjerne osjetljivosti na bilo koji sastojak preparata. Preparat nije namijenjen trudnicama i dojiljama te osobama mlađim od 18 godine života. Dodatak prehrani ne može biti korišten kao zamjena za raznovrsnu prehranu. Uravnotežena prehrana i zdrav način života važni su za pravilno funkcioniranje organizma.",
+      "sub-4": "UVJETI POHRANE:",
+      "text-4": "Preparat treba čuvati u zatvorenoj posudi na sobnoj temperaturi (15-25°C) na suhom mjestu, van dohvata male djece. Štititi od vlage i svjetlosti.",
+      "text-5": "Neto težina: 32,4 g",
+      "text-6": "Rok trajanja: 24 mjeseca od datuma proizvodnje"
+    },
+    "dnf": "DNF -10® prodaje tvrtka Fytexia.",
+    "copy": "Copyright © 2022 Proleptin Forte www.proleptinforte.com. Sva prava pridrižana."
+  },
+  "home": {
+    "hero": {
+      "badge": "NOVOST!",
+      "intro": "Proleptin Forte s inovativnim sastojkom {0}",
+      "intro-0": "DNF-10®",
+      "title": "SMANJENJE APETITA, LAKŠE MRŠAVLJENJE",
+      "subtitle": "Dodatak prehrani namijenjen osobama kojima je potrebna podrška u mršavljenju"
+    },
+    "intro": {
+      "title": "APETIT POD KONTROLOM - ZA MRŠAVLJENJE BEZ ODRICANJA*",
+      "paragraph": "*Aktivni sastojak kapsula Proleptin Forte je patentirana tvar pod nazivom {0}, čija je učinkovitost u regulaciji apetita dokazana {1}",
+      "paragraph-0": "DNF-10®",
+      "paragraph-1": "kliničkim ispitivanjima",
+      "icon-1": "Smanjenje unesenih kalorija za čak {0}",
+      "icon-1-0": "600 kcal dnevno",
+      "icon-2": "Postupno i sigurno gubljenje viška kilograma",
+      "icon-3": "Manje centimetara u opsegu (struk, bokovi, bedra)",
+      "icon-4": "Učinci {0}",
+      "icon-4-0": "potvrđeni kliničkim ispitivanjima",
+      "studies": "Rezultati pretraga"
+    },
+    "dnf": {
+      "section-1": {
+        "subtitle": "DNF-10",
+        "title": "INOVATIVNI AKTIVNI SASTOJAK",
+        "paragraph-1": "Aktivni sastojak kapsula Proleptin Forte je aktivna frakcija dobivena hidrolizom proteina gljivica {0} - odnosno kvasca poznatog čovječanstvu tisućama godina, koji se koristi u pečenju i pivarstvu. ",
+        "paragraph-1-0": "Saccharomyces cerevisiae",
+        "paragraph-2": "Tijekom 10 godina kliničkih istraživanja, dokazano je da ova tvar pomaže u kontroli gladi.",
+        "button": "Preuzmite rezultate kliničkih ispitivanja"
+      },
+      "section-2": {
+        "title": "MEHANIZAM DJELOVANJA {0} TEMELJI SE NA 3 STUPA",
+        "title-0": "DNF-10®",
+        "icon-1": {
+          "title": "Stimulacija hormona sitosti:",
+          "ing": "leptina",
+          "check-1": "Duži osjećaj sitosti nakon obroka",
+          "check-2": "Manja želja za grickanjem između obroka"
+        },
+        "icon-2": {
+          "title": "Zaustavljanje hormona gladi:",
+          "ing": "grelina",
+          "check-1": "Manji osjećaj gladi prije jela",
+          "check-2": "Unošenje manje količine hrane"
+        },
+        "icon-3": {
+          "title": "Zaustavljanje {0} koji povećava apetit",
+          "title-0": "neuropeptida Y",
+          "check-1": "Kontrola apetita između obroka",
+          "check-2": "Ograničavanje žudnje za slatkišima i grickalicama"
+        }
+      }
+    },
+    "benefits": {
+      "subtitle": "DNF-10",
+      "title": "UZ PROLEPTIN FORTE DIJETA MOŽE POSTATI UŽITAK",
+      "check-1": "Manje gladi prije jela",
+      "check-2": "Duži osjećaj sitosti nakon obroka",
+      "check-3": "Postupno i sigurno mršavljenje",
+      "icon-1": "Patentirani sastojak DNF-10®",
+      "icon-2": "Smanjenje unosa kalorija nakon prvih tjedana",
+      "icon-3": "{0} već nakon prvog mjeseca",
+      "icon-3-0": "Značajan gubitak težine",
+      "icon-4": "Gubitak težine zbog smanjenja masnog tkiva (ne mišića)",
+      "icon-5": "Gubitak težine uglavnom zbog smanjenja trbušne masti – {0}",
+      "icon-5-0": "značajno smanjen opseg struka",
+      "studies-link": "{0} aktivnog sastojka sadržanog u dodatku Proleptin Forte",
+      "studies": "Pročitajte više o rezultatima kliničkih ispitivanja"
+    },
+    "capsule": {
+      "title": "KVALITETA JE NAŠA POSJETNICA",
+      "paragraph": "Kako bismo osigurali optimalnu podršku primjenjujemo visoke standarde kvalitete. Sve to kako bi učinci korištenja kapsula Proleptin Forte ispunili očekivanja i najzahtjevnijih Klijenata.",
+      "check-1": "veganske kapsule",
+      "check-2": "bez umjetnih boja",
+      "check-3": "bez laktoze",
+      "check-4": "bez GMO-a"
+    },
+    "guarantee": {
+      "title": "GARANCIJA POVRATA NOVCA",
+      "paragraph": "Isprobajte Proleptin Forte bez rizika. U slučaju nezadovoljstva, novac će Vam biti vraćen."
+    },
+    "charts": {
+     "section-1": {
+        "title": "POJAČIVAČ SITOSTI",
+        "paragraph-1": "Osobe koje uzimaju DNF-10® značajno smanjuju svoj kalorijski unos nakon prvih tjedana suplementacije.",
+        "paragraph-2": "Nakon 2 mjeseca dnevni unos pada za čak 600 kalorija.",
+        "paragraph-3": "Nakon nekoliko tjedana uzimanja DNF-10, ispitanici su imali smanjen apetit za slatkišima i za 3 skupine prehrambenih makronutrijenata: ugljikohidratima, mastima i proteinima.",
+        "paragraph-4": "Vrlo značajna prednost je što se zahvaljujući suplementaciji DNF-10® smanjuje opseg struka za čak 5 cm u 2 mjeseca, a struk je inače vrlo nezgodan dio tijela kada je riječ o mršavljenju.",
+        "info": "DNF -10® prodaje tvrtka Fytexia. Grafikoni se temelje na kliničkim ispitivanjima koje {0}",
+        "info-0": "možete pogledati ovdje"
+      },
+      "section-2": {
+        "title": "POSTUPNO MRŠAVLJENJE",
+        "paragraph-1": "Klinička ispitivanja potvrđuju da je gubitak težine značajan već od prvog mjeseca uzimanja DNF-10®. ",
+        "paragraph-2": "Štoviše, 100% izgubljene težine tiče se masnog tkiva (ne mišića).",
+        "info": "DNF -10® prodaje tvrtka Fytexia. Grafikoni se temelje na kliničkim ispitivanjima koje {0}",
+        "info-0": "možete pogledati ovdje"
+      },
+      "legend": {
+        "placebo": "Placebo",
+        "dnf": "DNF-10®",
+        "time": "W - tjedan dana",
+        "source": "Izvor: Fytexia.com"
+      },
+      "chart-1": {
+        "title": "UNOS KALORIJA",
+        "text": "Promjena dnevnog kalorijskog unosa tijekom suplementacije",
+        "score": "Rezultat nakon 8 tjedana: -600 kcal / dan"
+      },
+      "chart-2": {
+        "title": "UGLJIKOHIDRATI",
+        "text": "Promjena dnevnog kalorijskog unosa (od ugljikohidrata) tijekom suplementacije",
+        "score": "Rezultat nakon 8 tjedana: -300 kcal / dan"
+      },
+      "chart-3": {
+        "title": "MASTI",
+        "text": "Promjena dnevnog kalorijskog unosa (od masnoća) tijekom suplementacije ",
+        "score": "Rezultat nakon 8 tjedana: -125 kcal / dan"
+      },
+      "chart-4": {
+        "title": "TJELESNA TEŽINA",
+        "text": "Smanjenje težine tijekom suplementacije",
+        "score": "Rezultat nakon 8 tjedana: -1,6 kg"
+      },
+      "chart-5": {
+        "title": "MASNO TKIVO",
+        "text": "Promjena sadržaja tjelesne masti tijekom suplementacije",
+        "score": "Rezultat nakon 8 tjedana: -2 kg"
+      }
+    },
+    "cta": {
+      "reviews": "129 mišljenja",
+      "title-1": "GLAD POD KONTROLOM",
+      "subtitle-1": "za postupno i sigurno smanjenje tjelesne težine",
+      "title-2": "Proleptin Forte",
+      "subtitle-2": "s inovativnim aktivnim sastojkom DNF-10®",
+      "check-1": "Dostupno",
+      "check-2": "u skladištu",
+      "check-3": "Pakiranje",
+      "check-4": "60 kapsula",
+      "check-5": "Dostava",
+      "check-6": "1-3 radna dana",
+      "btn": "DODAJ U KOŠARICU",
+      "capsules": "kapsula",
+      "info": "smanjite težinu za"
+    },
+    "faq": {
+      "title": "FAQ - upoznajte odgovore na najčešće postavljana pitanja",
+      "more": "VIŠE",
+      "less": "MANJE",
+      "question-1": {
+        "q": "Što je Proleptin Forte?",
+        "a": "Proleptin Forte je dodatak prehrani namijenjen ženama i muškarcima koji se žele na siguran način riješiti viška tjelesne masti. Svaka kapsula pripravka sadrži 250 mg aktivne tvari pod nazivom DNF-10®, čija je učinkovitost u smanjenju tjelesne težine dokazana kliničkim ispitivanjima."
+      },
+      "question-2": {
+        "q": "Kako djeluje DNF-10®?",
+        "a-1": "Mehanizam djelovanja DNF-10® temelji se na 3 stupa:",
+        "a-2": "Inhibicijski učinak na neuropeptid Y - što rezultira smanjenjem apetita tijekom dana",
+        "a-3": "Inhibicijski učinak na grelin, odnosno hormon gladi - što smanjuje osjećaj gladi prije jela",
+        "a-4": "Regulacijski učinak na leptin, odnosno hormon sitosti - što rezultira dužim osjećajem sitosti nakon jela",
+        "a-5": "Sve to utječe na {0} i rezultira sigurnim mršavljenjem. Važno je napomenuti i da se gubitak težine 100% tiče masnog tkiva.",
+        "a-5-0": "smanjenje kalorijskog unosa za čak 600 kcal dnevno"
+      },
+      "question-3": {
+        "q": "Kako koristiti Proleptin Forte?",
+        "a": "Suplement treba koristiti 2 puta po 1 kapsulu dnevno. Prvu kapsulu treba uzeti 30 minuta prije doručka, a drugu 30 minuta prije ručka. Kapsulu treba popiti uz čašu vode."
+      },
+      "question-4": {
+        "q": "Koliko traje jedno pakiranje kapsula Proleptin Forte?",
+        "a": "Jedno pakiranje sadrži 60 kapsula i dovoljno je za 30 dana korištenja."
+      },
+      "question-5": {
+        "q": "Koje su kontraindikacije za korištenje Proleptin Forte?",
+        "a": "Suplement se ne smije koristiti u slučaju alergija ili osjetljivosti na bilo koji od njegovih sastojaka. Proizvod također ne smiju koristiti djeca, trudnice i dojilje. "
+      },
+      "question-6": {
+        "q": "Ima li korištenje nuspojave?",
+        "a": "Visokokvalitetni odabrani sastojci ne bi trebali uzrokovati nuspojave. Suplement se ne smije koristiti u slučaju alergija ili osjetljivosti na bilo koji od njegovih sastojaka. Njihov detaljan popis nalazi se u letku koji treba pročitati prije uzimanja prve kapsule. "
+      },
+      "question-7": {
+        "q": "Kada ću vidjeti prve rezultate?",
+        "a": "To je individualna stvar i ovisi o prirodnim predispozicijama svake osobe. Obično se prvi učinci mogu očekivati već u prvom tjednu korištenja. "
+      },
+      "question-8": {
+        "q": "Je li Proleptin Forte laboratorijski ispitan?",
+        "a": "Naravno. Proizvod je testiran i odobren za uporabu, a učinkovitost aktivne tvari DNF-10® dokazana je kliničkim ispitivanjima."
+      },
+      "question-9": {
+        "q": "Kako je proizvod spakiran prilikom slanja?",
+        "a": "Vaša udobnost je naš prioritet. Svi paketi su pakirani u diskretne kutije koje ni na koji način ne sugeriraju sadržaj paketa. Nitko neće znati što je unutra. "
+      },
+      "question-10": {
+        "q": "Je li moguće slanje u inozemstvo?",
+        "a": "Da. Pošiljku možemo poslati u gotovo svaku zemlju Europske unije. "
+      },
+      "question-11": {
+        "q": "Koliko je vremena potrebno za isporuku?",
+        "a": "Vrijeme čekanja na paket u Hrvatskoj je obično do 3 radna dana, iako paket često stiže već nakon 1 dana. U slučaju inozemnih pošiljaka, vrijeme čekanja može biti nešto duže - ovisi o udaljenosti i dostavnoj službi. Kada Vas konzultant kontaktira telefonom da potvrdi adresu za dostavu, on će također navesti očekivani datum isporuke. "
+      },
+      "question-12": {
+        "q": "Mogu li platiti paket pouzećem?",
+        "a": "Da. Dajemo Vam mogućnost odabira najpovoljnijeg oblika plaćanja, uključujući pouzećem."
+      },
+      "question-13": {
+        "q": "Kako izgleda proces naručivanja? ",
+        "a": "Narudžbu je potrebno izvršiti putem ove web stranice klikom na gumb DODAJ U KOŠARICU i popunjavanjem obrasca za narudžbu. Konzultant će Vas kontaktirati telefonom kako bi potvrdio adresu za dostavu. "
+      }
+    },
+    "reviews": {
+      "title": "ZADOVOLJNI KLIJENTI PREPORUČUJU KAPSULE PROLEPTIN FORTE",
+      "subtitle": "Pročitajte njihova mišljenja i… pridružite im se!",
+      "review-1": {
+        "stars": "4.9",
+        "text": "„Jela sam ogromne količine slatkiša i to se vidjelo po mom trbuhu... Počela sam uzimati Proleptin i moja želja za slatkim je prošla. Već sam skinula 11 kg i nevjerojatno se osjećam🥰🥰🥰”",
+        "name": "Ivona, Split"
+      },
+      "review-2": {
+        "stars": "4.8",
+        "text": "„Mršavim već pola godine i dijeta je bila totalna muka za mene, još gora od vježbanja. A sada, zahvaljujući ovim kapsulama, konačno osjećam sitost nakon SALATE! Kad odem u samoposlugu, više ne padam u iskušenja kada vidim neke čokoladice ili pločice. Nešto nevjerojatno!!!”",
+        "name": "Gordana, Zagreb"
+      },
+      "review-3": {
+        "stars": "5.0",
+        "text": "„Otkad uzimam ove kapsule, prestao sam se kompulzivno prejedati. Umjesto toga, otišao sam u teretanu i smršavio sam 16 kg.”",
+        "name": "Martin, Dubrovnik"
+      },
+      "review-4": {
+        "stars": "4.5",
+        "text": "„Uvjerilo me je to da je preparat znanstveno ispitan. Ne čini čuda, ali glad je zbilja sve manja i tjedno gubim po nekoliko kila. Preporučujem. 😊”",
+        "name": "Barica, Varaždin"
+      },
+      "review-5": {
+        "stars": "4.7",
+        "text": "„Ranije sam se tješio hranom. Otkad ovo uzimam, više ne slinim kad vidim kiosk s brzom hranom. Za mene je super.”",
+        "name": "Ivan, Imotski"
+      },
+      "review-6": {
+        "stars": "5.0",
+        "text": "„Suplement Proleptin Forte mi je pomogao da jedem manje. To jednostavno zbilja djeluje! Već sam ga preporučila svim svojim prijateljima koji su željeli smršavjeti. I svi mi zahvaljuju!”",
+        "name": "Tomislava, Rijeka"
+      },
+      "review-7": {
+        "stars": "4.9",
+        "text": "„S ovim kapsulama konačno jedem onoliko koliko mi je stvarno potrebno, a da ne uništavam želudac.”",
+        "name": "Katarina, Zadar"
+      },
+      "review-8": {
+        "stars": "4.8",
+        "text": "„Uvijek sam jeo zbog stresa, pogotovo noću, a otkad pijem ove kapsule: noćna glad je nestala, a trbuh je sve manji. Već sam izgubio 8 cm u struku. 😉”",
+        "name": "Matej, Knin"
+      },
+      "review-9": {
+        "stars": "5.0",
+        "text": "„Naručila sam ketering dijetu, ali sam uvijek bila gladna i ljuta. Proleptin uzimam 3 mjeseca i smatram da mi je ova dijeta dovoljna. Imam više snage i općenito više optimizma. Više se krećem i imam čak 8 kg manje. Već mogu obući hlače od prije trudnoće! Predivno💛”",
+        "name": "Tamara, Požega"
+      },
+      "review-10": {
+        "stars": "4.5",
+        "text": "„Najbolja dijeta je MŽ – manje žderi!😅 I s ovim preparatom to zbilja uspijeva.”",
+        "name": "Mirko, Vukovar"
+      },
+      "review-11": {
+        "stars": "4.7",
+        "text": "„Da sam samo ranije znala da postoji taj DNF-10, poštedio bi me mnogo godina patnje... Bila sam jako debela, a danas nosim broj S i volim svoju figuru! 🥲”",
+        "name": "Eliza, Pula"
+      },
+      "review-12": {
+        "stars": "5.0",
+        "text": "„Malo sam se bojala da će mi hrana izgubiti okus zbog Proleptina. Ali nije tako. Okus je normalan, samo što se prestanete prejedati i višak masnoće nestaje. Kod mene minus 7 kg. Nevjerojatno”",
+        "name": "Ivana, Podgaće"
+      },
+      "review-13": {
+        "stars": "4.9",
+        "text": "„Ove su mi kapsule pomogle da se izvučem iz patološke pretilosti...”",
+        "name": "Petar, Zagreb"
+      },
+      "review-14": {
+        "stars": "4.8",
+        "text": "„Proleptin je u mom slučaju ubrzao mršavljenje prije vjenčanja, a ja sam se strašno bojala da neću uspjeti! Cilj - 10 kg manje u 3 mjeseca - postignut je za manje od 2 mjeseca!”",
+        "name": "Mina, Split"
+      },
+      "info": "*Učinci su individualna stvar i mogu se razlikovati od osobe do osobe. {0}",
+      "info-0": "O rezultatima kliničkih ispitivanja možete pročitati ovdje"
+    }
+  },
+  "order": {
+    "steps": {
+      "contact": "KONTAKT PODACI",
+      "address": "ADRESNI PODACI",
+      "ssl": "Vaši podaci su 100% sigurni.",
+      "legend": "* Obavezna polja"
+    },
+    "form": {
+      "firstname": "Ime",
+      "lastname": "Prezime",
+      "email": "E-mail:",
+      "phone": "Telefon",
+      "info": "Telefon je potreban za dostavu putem kurirske službe",
+      "next": "Sljedeći korak:",
+      "address": "Adresa (ulica, broj stana)",
+      "zip": "Poštanski broj",
+      "city": "Grad",
+      "country": "Država",
+      "cod": "Plaćanje dostavljaču prilikom preuzimanja (pouzećem)",
+      "online": "Plaćanje unaprijed - elektronički prijenos (unaprijed)",
+      "legal":  {
+        "terms": "Pravilnik",
+        "privacy": "Politiku privatnosti",
+        "text": "Pročitao sam i prihvaćam {0} i {1}."
+      },
+      "rodo": {
+        "privacy": "Politika privatnosti",
+        "text": "Administrator Vaših osobnih podataka je Nutrilab Sp. z o. o.. Podaci se obrađuju u svrhu slanja i obrade narudžbe te u popratne svrhe. Detalji: {0}."
+      },
+      "order": "Naručujem",
+      "errors": {
+        "required": "Ovo polje je obavezno.",
+        "invalid": "Polje je nepravilno popunjeno."
+      }
+    },
+    "cart": {
+      "title": "Vaša košarica",
+      "package": "Pakiranje od 60 kapsula:",
+      "delivery": "Dostava:",
+      "quantity": "Količina:",
+      "total": "Skupa:"
+    }
+  },
+  "typ": {
+    "title": "Zahvaljujemo!",
+    "subtitle": "Naš konzultant će Vas uskoro kontaktirati i potvrditi detalje dostave."
+  }
+}

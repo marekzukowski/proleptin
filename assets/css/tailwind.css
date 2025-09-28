@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-tertiary-900;
+  }
+  a {
+    @apply transition;
+  }
+  .nuxt-icon svg {
+    @apply !mb-0
+  }
+}
+
+@layer components {
+  .form-input {
+    @apply rounded w-full border-tertiary-300 text-lg placeholder:font-light placeholder:text-tertiary-700 focus:ring-2 focus:ring-primary-500 focus:border-primary-500
+  }
+  .form-select {
+    @apply rounded w-full border-tertiary-300 text-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 disabled:bg-tertiary-100
+  }
+  .form-checkbox {
+    @apply rounded border-tertiary-300 h-6 w-6 mr-3 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 checked:focus:bg-primary-500
+  }
+  .form-radio {
+    @apply border-tertiary-300 h-6 w-6 mr-3 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 checked:focus:bg-primary-500
+  }
+}

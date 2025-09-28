@@ -1,0 +1,431 @@
+{
+  "global": {
+    "product": "Proleptin Forte",
+    "price": "17990",
+    "currency": "Ft",
+    "country": "Magyarország",
+    "title": "Proleptin Forte",
+    "description": "A Proleptin Forte étrend-kiegészítő innovatív DNF-10® összetevőt tartalmaz, amely lehetővé teszi az elfogyasztott kalóriák számának napi 600 kcal-val való csökkentését. Az éhség kordában tartva, kisebb étvágy – könnyebb fogyás!"
+  },
+  "header": {
+    "nav": {
+      "dnf": {
+        "name": "DNF-10®",
+        "path": "dnf10"
+      },
+      "effects": {
+        "name": "FELHASZNÁLÁSÁNAK HATÁSA",
+        "path": "felhasznalasanak-hatasa"
+      },
+      "reviews": {
+        "name": "VÉLEMÉNYEK",
+        "path": "velemenyek"
+      },
+      "contact": {
+        "name": "KAPCSOLAT",
+        "path": "kapcsolat"
+      }
+    },
+    "order": {
+      "name": "RENDELD MEG MOST",
+      "path": "rendeld-meg-most"
+    }
+  },
+  "language": {
+    "text": "NYELV / Language:",
+    "choose": "VÁLASSZ NYELVET",
+    "back": "Vissza"
+  },
+  "contact": {
+    "phone": {
+      "title": "TELEFONÁLJ",
+      "plus": "+36",
+      "number": "13237358",
+      "link": "+3613237358",
+      "copy": "A szám vágólapra másolása",
+      "hours": "Az infovonal hétfőtől péntekig 8:00 – 20:00 óra között érhető el.",
+      "price": "A hívás díja az üzemeltetői díjak szerint."
+    },
+    "email": {
+      "title": "E-MAIL-CÍM:",
+      "address": "contact",
+      "copy": "A cím vágólapra másolása"
+    },
+    "copied": "Átmásolva!"
+  },
+  "legal": {
+    "privacy": {
+      "name": "Adatvédelmi irányelvek",
+      "path": "adatvedelmi-iranyelvek"
+    },
+    "regulations": {
+      "name": "Szabályzat",
+      "path": "szabalyzat"
+    }
+  },
+  "footer": {
+    "social": "Social media",
+    "form": {
+      "title": "ÍRJ",
+      "name": "Utónév:",
+      "surname": "Családi név:",
+      "email": "E-mail:",
+      "message": "Üzenet:",
+      "submit": "Küldés",
+      "error": "Upsz! Hiba lépett fel.",
+      "success": "Az üzeneted el lett küldve."
+    },
+    "icons": {
+      "delivery": "Gyors és biztonságos kiszállítás",
+      "package": "Ingyenes kiszállítás",
+      "gurantee": "Garantált pénzvisszatérítés"
+    },
+    "info": {
+      "title": "A TERMÉK CÍMKÉJE",
+      "sub-1": "HOZZÁVALÓK:",
+      "text-1": "DNF-10® - a kapszula egyik összetevője, szabadalmaztatott fehérje-hidrolizátum, amelyet Saccharomyces cerevisiae élesztőből, rizslisztből, cellulózból nyernek ki. A DNF-10® a Fytexia tulajdona.",
+      "sub-2": "FELHASZNÁLÁSI JAVASLAT:",
+      "text-2": "2 x 1 kapszula minden nap. A kapszulát 30 perccel reggel és ebéd előtt kell bevenni, és egy pohár vízzel leöblíteni.",
+      "sub-3": "FIGYELMEZTETÉS:",
+      "text-3": "Ne lépje túl a készítmény napi fogyasztásra szánt adagját. Ne használja, ha érzékeny vagy allergiás a készítmény bármely összetevőjére. A készítményt nem megfelelő terhes és szoptató nőknek, valamint 18 év alatti személyeknek. Az étrend-kiegészítőt ne használjuk a változatos étrend alkalmazása helyett. A kiegyensúlyozott étrend és az egészséges életmód fontos a szervezet megfelelő működéséhez.",
+      "sub-4": "TÁROLÁSI FELTÉTELEK:",
+      "text-4": "A készítményt zárt edényben, szobahőmérsékleten (15-25°C) száraz helyen, kisgyermekek elől elzárva kell tárolni. Védje a nedvességtől és a fénytől.",
+      "text-5": "Nettó tömeg: 32,4 g",
+      "text-6": "Minőségét megőrzi: a gyártástól számított 24. hónapig"
+    },
+    "dnf": "A DNF-10®-et a Fytexia cég értékesíti.",
+    "copy": "Copyright © 2022 Proleptin Forte www.proleptinforte.com. Minden jog fenntartva."
+  },
+  "home": {
+    "hero": {
+      "badge": "ÚJDONSÁG!",
+      "intro": "Proleptin Forte innovatív {0} összetevővel",
+      "intro-0": "DNF-10®",
+      "title": "AZ ÉTVÁGY CSÖKKENTÉSE, KÖNNYEBB FOGYÁS",
+      "subtitle": "Étrend-kiegészítő azok számára, akiknek segítségre van szüksége a fogyáshoz."
+    },
+    "intro": {
+      "title": "ÉTVÁGY KORDÁBAN TARTVA – FOGYÁS LEMONDÁSOK NÉLKÜL*",
+      "paragraph": "*A Proleptin Forte kapszulák hatóanyaga a {0} nevű szabadalmaztatott anyag, melynek hatékonyságát az étvágy szabályozásában {1}.",
+      "paragraph-0": "DNF-10®",
+      "paragraph-1": "klinikai kutatások igazolták",
+      "icon-1": "{0} kevesebb kalóriafogyasztás",
+      "icon-1-0": "Akár napi 600 kcal-val",
+      "icon-2": "A felesleges kilók fokozatos és biztonságos leadása",
+      "icon-3": "Kevesebb centiméter kerületben mérve (derék, csípő, comb)",
+      "icon-4": "{0}",
+      "icon-4-0": "Klinikai vizsgálatok által igazolt hatás",
+      "studies": "Kutatási eredmények"
+    },
+    "dnf": {
+      "section-1": {
+        "subtitle": "DNF-10",
+        "title": "INNOVATÍV HATÓANYAG",
+        "paragraph-1": "A Proleptin Forte kapszulák hatóanyaga a {0}, azaz az emberiség által évezredek óta ismert, sütéshez és sörfőzéshez is használt élesztőgomba fehérjéjének hidrolízise után kinyert aktív frakció.",
+        "paragraph-1-0": "Saccharomyces cerevisiae",
+        "paragraph-2": "A több mint 10 éves klinikai kutatás bebizonyította, hogy ez az anyag segít az éhség megfékezésében.",
+        "button": "A klinikai vizsgálati eredmények letöltése"
+      },
+      "section-2": {
+        "title": "A {0} MŰKÖDÉSI MECHANIZMUSA 3 PILLÉREN ALAPUL",
+        "title-0": "DNF-10®",
+        "icon-1": {
+          "title": "Stimulálja a jóllakottsághormont:",
+          "ing": "leptin",
+          "check-1": "Hosszabb teltségérzet étkezés után",
+          "check-2": "Kevesebb nassolási vágy az étkezések között"
+        },
+        "icon-2": {
+          "title": "Fékezi az éhséghormont:",
+          "ing": "ghrelin",
+          "check-1": "Kisebb éhség étkezés előtt",
+          "check-2": "Kevesebb étel fogyasztása"
+        },
+        "icon-3": {
+          "title": "Fékezi az {0}, amely étvágynövelőe",
+          "title-0": "Y neuropeptidet",
+          "check-1": "Étvágyszabályozás az étkezések között",
+          "check-2": "Az édességek és rágcsálnivalók iránti vágy korlátozása"
+        }
+      }
+    },
+    "benefits": {
+      "subtitle": "DNF-10",
+      "title": "A PROLEPTIN FORTE-NEK KÖSZÖNHETŐEN AZ ÉTKEZÉS KELLEMES LESZ",
+      "check-1": "Kisebb éhség étkezés előtt",
+      "check-2": "Hosszabb teltségérzet étkezés után",
+      "check-3": "Fokozatos és biztonságos fogyás",
+      "icon-1": "Szabadalmaztatott DNF-10® komponens",
+      "icon-2": "A kalóriabevitel csökkentése az első hetek után",
+      "icon-3": "{0} az első hónap után",
+      "icon-3-0": "Jelentős fogyás",
+      "icon-4": "Súlycsökkenés a testzsír (nem az izomtömeg) csökkenése miatt",
+      "icon-5": "Súlycsökkenés nagyrészt a hasi zsír redukálásának köszönhetően – {0}",
+      "icon-5-0": "jelentősen csökkentett derékbőség",
+      "studies-link": "Olvasd el a Proleptin Forte étrend-kiegészítőben található hatóanyagról készült",
+      "studies": "klinikai kutatások eredményeit"
+    },
+    "capsule": {
+      "title": "SZÁMUNKRA A MINŐSÉG A LEGFONTOSABB",
+      "paragraph": "Magas minőségi szabványokat alkalmazunk az optimális támogatás biztosítása érdekében. Mindezt azért, hogy a Proleptin Forte kapszulák használatának hatásai megfeleljenek a legigényesebb vásárlók elvárásainak is.",
+      "check-1": "vegán kapszulák",
+      "check-2": "mesterséges színezékek nélkül",
+      "check-3": "laktózmentes",
+      "check-4": "GMO-mentes"
+    },
+    "guarantee": {
+      "title": "PÉNZVISSZAFIZETÉSI GARANCIA",
+      "paragraph": "Próbáld ki a Proleptin Forte-t kockázatok nélkül! Ha nem leszel elégedett, visszaadjuk a pénzed."
+    },
+    "charts": {
+     "section-1": {
+        "title": "TELTSÉGÉRZET-ERŐSÍTŐ",
+        "paragraph-1": "A DNF-10®-et szedők esetében jelentősen csökkent a kalóriabevitel az étrend-kiegészítő használatának első heteit követően.",
+        "paragraph-2": "2 hónap elteltével a napi fogyasztás egyes esetekben 600 kalóriával csökkent.",
+        "paragraph-3": "Néhány héttel a DNF-10 szedése után az alanyok étvágya csökkent az édességek és a makrotápanyagok három csoportja iránt: szénhidrátok, zsírok és fehérjék.",
+        "paragraph-4": "Jelentős előny, hogy a DNF-10® étrend-kiegészítőnek köszönhetően a problémás testrészek, pl. a derékbőség is csökkenhet, akár 5 cm-rel is 2 hónap alatt.",
+        "info": "A DNF-10®-et a Fytexia cég értékesíti. A grafikonok klinikai vizsgálatokon alapulnak, {0}",
+        "info-0": "amelyeket itt tekinthet meg"
+      },
+      "section-2": {
+        "title": "FOKOZATOS TESTSÚLYCSÖKKENÉS",
+        "paragraph-1": "A klinikai vizsgálatok megerősítik, hogy a fogyás jelentős a DNF-10® szedésének első hónapjától kezdve.",
+        "paragraph-2": "Ráadásul a fogyás 100%-ban a zsírszövetek leépülésében származik, nem az izmokéból.",
+        "info": "A DNF-10®-et a Fytexia cég értékesíti. A grafikonok klinikai vizsgálatokon alapulnak, {0}",
+        "info-0": "amelyeket itt tekinthet meg"
+      },
+      "legend": {
+        "placebo": "Placebo",
+        "dnf": "DNF-10®",
+        "time": "W - hét",
+        "source": "Forrás:"
+      },
+      "chart-1": {
+        "title": "KALÓRIAFOGYASZTÁS",
+        "text": "A napi kalóriafogyasztás megváltoztatása az étrend-kiegészítő használata közben",
+        "score": "Az eredmény 8 hét elteltével: -600 kcal / nap"
+      },
+      "chart-2": {
+        "title": "SZÉNHIDRÁTOK",
+        "text": "A napi, szénhidrátokból származó kalóriafogyasztás megváltoztatása az étrend-kiegészítő használata közben",
+        "score": "Az eredmény 8 hét elteltével: -300 kcal / nap"
+      },
+      "chart-3": {
+        "title": "ZSÍROK",
+        "text": "A napi, zsírokból származó kalóriafogyasztás megváltoztatása az étrend-kiegészítő használata közben",
+        "score": "Az eredmény 8 hét elteltével: -125 kcal / nap"
+      },
+      "chart-4": {
+        "title": "TESTTÖMEG",
+        "text": "Zsírszövetcsökkenés az étrend-kiegészítő használata során",
+        "score": "Az eredmény 8 hét elteltével: -1,6 kg"
+      },
+      "chart-5": {
+        "title": "ZSÍRSZÖVET",
+        "text": "A szervezetben lévő zsírszövet tartalmának változása az étrend-kiegészítő használata során",
+        "score": "Az eredmény 8 hét elteltével: -2 kg"
+      }
+    },
+    "cta": {
+      "reviews": "129 vélemény",
+      "title-1": "AZ ÉHSÉG KORDÁBAN TARTVA",
+      "subtitle-1": "a fokozatos és biztonságos súlycsökkentésért",
+      "title-2": "Proleptin Forte",
+      "subtitle-2": "innovatív DNF-10® hatóanyaggal",
+      "check-1": "Elérhetőség",
+      "check-2": "raktáron",
+      "check-3": "Csomagolás",
+      "check-4": "60 kapszula",
+      "check-5": "Kiszállítás",
+      "check-6": "1-3 munkanap",
+      "btn": "KOSÁRBA",
+      "capsules": "kapszula",
+      "info": "-mal csökkentheted súlyodat"
+    },
+    "faq": {
+      "title": "GYIK – találja meg a válaszokat a leggyakrabban feltett kérdésekre",
+      "more": "TÖBB",
+      "less": "KEVESEBB",
+      "question-1": {
+        "q": "Mi az a Proleptin Forte?",
+        "a": "A Proleptin Forte étrend-kiegészítőt nők és férfiak is használhatják, segítségével biztonságos módon szabadulhatunk meg a felesleges testzsírtól. A készítmény kapszulánként 250 mg DNF-10® nevű hatóanyagot tartalmaz, melynek testtömegcsökkentési hatékonyságát klinikai vizsgálatok igazolták."
+      },
+      "question-2": {
+        "q": "Hogyan működik a DNF-10®?",
+        "a-1": "A DNF-10® hatásmechanizmusa 3 pilléren alapul:",
+        "a-2": "Gátolja az Y neuropeptid hatását – ami a nap folyamán az étvágy csökkenését eredményezi",
+        "a-3": "Gátolja a ghrelin, azaz az „éhséghormon” hatását – amely csökkenti az étkezés előtti éhségérzetet",
+        "a-4": "Szabályozza a leptin, azaz a „telítettséghormon” hatását – ami hosszabb teltségérzetet eredményez étkezést követően",
+        "a-5": "Mindez {0}, ezáltal biztonságos fogyást eredményezve. Fontos, hogy a fogyás 100%-ban a testzsírból történik.",
+        "a-5-0": "akár napi 600 kcal-val csökkentheti a kalóriabevitelt"
+      },
+      "question-3": {
+        "q": "Hogyan kell alkalmazni a Proleptin Forte-t?",
+        "a": "Napi 2 alkalommal 1 kapszulát kell bevenni. Az első kapszulát 30 perccel reggeli, a második kapszulát 30 perccel ebéd előtt kell bevenni. A kapszulát egy pohár vízzel le kell öblíteni."
+      },
+      "question-4": {
+        "q": "Mennyi ideig tart egy csomag Proleptin Forte kapszula?",
+        "a": "Egy csomag 60 kapszulát tartalmaz, 30 napos használatra elegendő."
+      },
+      "question-5": {
+        "q": "Mik a Proleptin Forte alkalmazásának ellenjavallatai?",
+        "a": "Az étrend-kiegészítő nem alkalmazható allergia vagy bármely összetevőjével szembeni érzékenység esetén. A terméket gyermekek, terhes és szoptató nők sem használhatják."
+      },
+      "question-6": {
+        "q": "Vannak mellékhatásai a használatnak?",
+        "a": "A benne lévő kiváló minőségű kiválasztott összetevők nem válthatnak ki mellékhatásokat. Az étrend-kiegészítő nem alkalmazható allergia vagy bármely összetevőjével szembeni érzékenység esetén. Az összetevők részletes listája a tájékoztatóban található, amelyet az első kapszula bevétele előtt el kell olvasni."
+      },
+      "question-7": {
+        "q": "Mikor láthatom az első eredményeket?",
+        "a": "Ez egyéni kérdés, és minden ember természetes adottságaitól függ. Általában az első eredmények használatának első hetében várhatók."
+      },
+      "question-8": {
+        "q": "A Proleptin Forte-t laboratóriumban tesztelték?",
+        "a": "Természetesen. A készítményt tesztelték és felhasználásra jóváhagyták, a DNF-10® hatóanyag hatékonyságát klinikai vizsgálatok igazolják."
+      },
+      "question-9": {
+        "q": "Hogyan csomagolják a terméket szállításkor?",
+        "a": "Az Ön kényelme számunkra kifejezetten fontos. Minden csomag diszkrét dobozokba van csomagolva, amelyek semmilyen módon nem utalnak a csomag tartalmára. Kívülállók nem fogják tudni, mi van benne."
+      },
+      "question-10": {
+        "q": "Lehetséges külföldre szállítani?",
+        "a": "Igen. A küldeményt az Európai Unió szinte bármely országába tudjuk szállítani."
+      },
+      "question-11": {
+        "q": "Mennyi ideig tart a kiszállítás?",
+        "a": "A várakozási idő egy csomag esetén Magyarországon általában legfeljebb 3 munkanap, de a csomag gyakran már 1 napot követően kézbesítésre kerül. Külföldi küldemények esetén a várakozási idő valamivel hosszabb lehet – ez a távolságtól és a futárcégtől is függ. Amikor a tanácsadó telefonon felveszi Önnel a kapcsolatot a szállítási cím megerősítése érdekében, megadja a szállítási várható dátumát is."
+      },
+      "question-12": {
+        "q": "Fizethetek utánvéttel?",
+        "a": "Igen. Lehetőséget biztosítunk a legkényelmesebb fizetési mód kiválasztására, így utánvétes fizetés is választható."
+      },
+      "question-13": {
+        "q": "Hogyan néz ki a rendelés folyamata?",
+        "a": "A megrendelést ezen a weboldalon keresztül kell leadni a „KOSÁRBA” gombra kattintva és a megrendelőlap kitöltésével. Egy tanácsadó ezután telefonon felveszi Önnel a kapcsolatot a szállítási cím megerősítése érdekében."
+      }
+    },
+    "reviews": {
+      "title": "ELÉGEDETT ÜGYFELEINK AJÁNLJÁK A PROLEPTIN FORTE KAPSZULÁK HASZNÁLATÁT",
+      "subtitle": "Olvasd el a véleményüket és... csatlakozz hozzájuk!",
+      "review-1": {
+        "stars": "4.9",
+        "text": "„Hatalmas mennyiségben fogyasztottam édességeket, és ez meglátszott a hasamon is... Elkezdtem szedni a Proleptint, és már nem vágyom annyira az édességekre. Már 11 kg-ot leadtam, hihetetlen 🥰🥰🥰”",
+        "name": "Alíz, Pécs"
+      },
+      "review-2": {
+        "stars": "4.8",
+        "text": "„Hat hónapja fogyókúrázok, és a diéta igazi kínszenvedés volt számomra, rosszabb, mint az edzés. Viszont most ezeknek a kapszuláknak köszönhetően végre jóllakottnak érzem magam egy SALÁTA után is! Amikor elmegyek a boltba, már nincs kedvem csokit vagy sütit tenni a kosárba. Ez valami csodálatos!!!”",
+        "name": "Ilona, Budapest"
+      },
+      "review-3": {
+        "stars": "5.0",
+        "text": "„Amióta szedem ezeket a kapszulákat, abbahagytam a kényszeres túlevést. Ehelyett inkább eljárok az edzőterembe, már 16 kg-ot fogytam.”",
+        "name": "Márton, Kecskemét"
+      },
+      "review-4": {
+        "stars": "4.5",
+        "text": "„Az győzött meg, hogy ez a készítményt tudományosan letesztelték. Nem tesz csodát, de az éhség valóban kisebb és hétről hétre mennek lefelé a kilók. Ajánlom mindenkinek! 😊”",
+        "name": "Dorottya, Székesfehérvár"
+      },
+      "review-5": {
+        "stars": "4.7",
+        "text": "„Korábban az étkezésbe próbáltam temetni a problémáimat. Mióta szedem, már nem vágyok állandóan gyorsételekre. Szerintem szuper.”",
+        "name": "Gábor, Miskolc"
+      },
+      "review-6": {
+        "stars": "5.0",
+        "text": "„A Proleptin Forte étrend-kiegészítő segített, hogy kevesebbet egyek. Tényleg működik! Már minden fogyni vágyó barátomnak ajánlottam. És mindenki köszöni, hogy szóltam nekik!”",
+        "name": "Klaudia, Debrecen"
+      },
+      "review-7": {
+        "stars": "4.9",
+        "text": "„Ezekkel a kapszulákkal végre annyit eszem, amennyire valóban szükségem van, anélkül, hogy eltömítené a gyomrom.”",
+        "name": "Katalin, Békéscsaba"
+      },
+      "review-8": {
+        "stars": "4.8",
+        "text": "„Mikor stresszes voltam, mindig ettem, főleg éjszaka. Amióta szedem ezeket a kapszulákat elmúlt az éjszakai éhségérzet, és egyre kisebb a gyomrom. Már 8 cm-t fogytam a derekamból. 😉”",
+        "name": "Máté, Sopron"
+      },
+      "review-9": {
+        "stars": "5.0",
+        "text": "„Dobozos diétát rendeltem, de egyfolytában éhes voltam, emiatt pedig feszült is. 3 hónapja szedem a Proleptint és úgy érzem, hogy ez elég is. Több erőm van, és optimistábban tekintek a világra. Többet mozgok és 8 kg-mal kevesebbet nyomok. Már beleférek a terhesség előtt hordott nadrágomba! Csodálatos 💛”",
+        "name": "Marianna, Győr"
+      },
+      "review-10": {
+        "stars": "4.5",
+        "text": "„A legjobb diéta az EK – azaz „egyél kevesebbet” 😅 És ezzel az étrend-kiegészítővel ez tényleg meg is oldható.”",
+        "name": "Róbert, Keszthely"
+      },
+      "review-11": {
+        "stars": "4.7",
+        "text": "„Ha előre tudtam volna, hogy létezik ilyen DNF-10, akkor sok év szenvedéstől kíméltem volna meg magam... Nagyon duci voltam, ma viszont S-es méretet hordok, imádom az alakomat! 🥲”",
+        "name": "Erika, Balatonfüred"
+      },
+      "review-12": {
+        "stars": "5.0",
+        "text": "„Kicsit féltem, hogy a Proleptin miatt kevésbé érzem majd az ízeket. De ez nincs így. Mindennek normális íze van, annyi, hogy az ember már nem eszik többet a kelleténél, és emiatt eltűnik a felesleges zsír. Én mínusz 7 kg-nál tartok. Nem semmi.”",
+        "name": "Anna, Szekszárd"
+      },
+      "review-13": {
+        "stars": "4.9",
+        "text": "„Ezek a kapszulák segítettek kilábalni a kóros elhízásból…”",
+        "name": "Péter, Budapest"
+      },
+      "review-14": {
+        "stars": "4.8",
+        "text": "„A Proleptin az esküvőm előtt felgyorsította a fogyást, már attól féltem, hogy nem fog menni! A célt – mínusz 10 kg 3 hónap alatt – kevesebb, mint 2 hónap alatt sikerült elérni!”",
+        "name": "Márta, Hajdúszoboszló"
+      },
+      "info": "**A hatás egyéni kérdés, és személyenként eltérő lehet. {0}",
+      "info-0": "A klinikai vizsgálatok eredményeiről itt olvashat."
+    }
+  },
+  "order": {
+    "steps": {
+      "contact": "KAPCSOLATTARTÁSI ADATOK",
+      "address": "CÍMADATOK",
+      "ssl": "Az adataid 100%-ban biztonságban vannak.",
+      "legend": "* Kötelező mező"
+    },
+    "form": {
+      "firstname": "Utónév",
+      "lastname": "Családi név",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "info": "A telefonszámra a csomagszállítás miatt van szükség",
+      "next": "Következő lépés:",
+      "address": "Cím (utca, házszám, emelet, ajtó)",
+      "zip": "Irányítószám",
+      "city": "Város",
+      "country": "Ország",
+      "cod": "Utánvétes fizetés a kiszállítónál (utánvét)",
+      "online": "Előrefizetés elektronikus átutalással (előre utalás)",
+      "legal":  {
+        "terms": "Szabályzatban",
+        "privacy": "Adatvédelmi irányelvekben",
+        "text": "Megértettem a {0} és az {1} foglaltakat, és elfogadom azokat."
+      },
+      "rodo": {
+        "privacy": "Adatvédelmi irányelvek",
+        "text": "A személyes adatok adatkezelője az Nutrilab Sp. z o. o.. Az adatok kezelése a megrendelés leadása és feldolgozása, valamint az ezt lehetővé tévő célok érdekében történik. Részletek: {0}"
+      },
+      "order": "Megrendelem",
+      "errors": {
+        "required": "Ezt a mezőt kötelező kitölteni.",
+        "invalid": "A mező helytelenül lett kitöltve."
+      }
+    },
+    "cart": {
+      "title": "Kosarad",
+      "package": "60 darabos csomagolás",
+      "delivery": "Kiszállítás",
+      "quantity": "Mennyiség",
+      "total": "Összesen"
+    }
+  },
+  "typ": {
+    "title": "Köszönjük!",
+    "subtitle": "Hamarosan felveszi veled a kapcsolatot ügyfélkezelőnk, aki megerősíti a kiszállítási adatokat."
+  }
+}

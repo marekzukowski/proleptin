@@ -1,0 +1,431 @@
+{
+  "global": {
+    "product": "Proleptin Forte",
+    "price": "179",
+    "currency": "Lei",
+    "country": "România",
+    "title": "Proleptin Forte",
+    "description": "Suplimentul alimentar Proleptin Forte conține ingredientul inovator DNF-10®, care permite reducerea numărului de calorii consumate cu 600 kcal zilnic. Foamea sub control, apetit scăzut – slăbire mai ușoară! "
+  },
+  "header": {
+    "nav": {
+      "dnf": {
+        "name": "DNF-10®",
+        "path": "dnf10"
+      },
+      "effects": {
+        "name": "EFECTELE UTILIZĂRII",
+        "path": "efectele-utilizarii"
+      },
+      "reviews": {
+        "name": "OPINII",
+        "path": "opinni"
+      },
+      "contact": {
+        "name": "CONTACT",
+        "path": "contact"
+      }
+    },
+    "order": {
+      "name": "COMANDĂ ACUM",
+      "path": "comanda-acum"
+    }
+  },
+  "language": {
+    "text": "LIMBA / Language:",
+    "choose": "ALEGE LIMBA",
+    "back": "Întoarce-te"
+  },
+  "contact": {
+    "phone": {
+      "title": "CONTACTEAZĂ-NE:",
+      "plus": "+40",
+      "number": "318114202",
+      "link": "+40318114202",
+      "copy": "Copiați numărul de telefon în agendă",
+      "hours": "Infolinia este activă de luni până vineri între orele: 8:00 – 20:00.",
+      "price": "Prețul apelului este conform tarifelor operatorului."
+    },
+    "email": {
+      "title": "ADRESA E-MAIL:",
+      "address": "contact",
+      "copy": "Copiați adresa de e-mail în agendă"
+    },
+    "copied": "Copiat!"
+  },
+  "legal": {
+    "privacy": {
+      "name": "Politica de Confidențialitate",
+      "path": "politica-de-confidențialitate"
+    },
+    "regulations": {
+      "name": "Regulamentul",
+      "path": "regulamentul"
+    }
+  },
+  "footer": {
+    "social": "Social media",
+    "form": {
+      "title": "SCRIEȚI-NE",
+      "name": "Prenume:",
+      "surname": "Nume:",
+      "email": "E-mail:",
+      "message": "Mesaj:",
+      "submit": "Trimite",
+      "error": "Ups! Ceva nu a mers bine.",
+      "success": "Mesajul tău a fost expediat."
+    },
+    "icons": {
+      "delivery": "Livrare rapidă și sigură",
+      "package": "Livrare gratuită",
+      "gurantee": "Garanția returnării costurilor"
+    },
+    "info": {
+      "title": "ETICHETA PRODUSULUI",
+      "sub-1": "INGREDIENTE:",
+      "text-1": "DNF-10® - Hidrolizat proteic patentat obținut din drojdie Saccharomyces cerevisiae, făină de orez, celuloză - ingredientul capsulei. DNF-10® este proprietatea firmei Fytexia.",
+      "sub-2": "MOD DE UTILIZARE:",
+      "text-2": "2 x 1 capsulă pe zi. Capsula trebuie administrată cu 30 de minute înainte de micul dejun și de prânz, cu un pahar de apă după.",
+      "sub-3": "ATENȚIONARE:",
+      "text-3": "Nu trebuie depășită porția zilnică recomandată a preparatului din perioada zilei. A nu se utiliza în cazul hipersensibilității la oricare dintre ingredientele preparatului. Preparatul nu este destinat femeilor însărcinate, care alăptează și persoanele care au sub 18 ani. Suplimentul alimentar nu poate fi utilizat ca un substitut al unei diete echilibrate. Dieta echilibrată și stilul de viață sănătos, sunt importante pentru funcționarea corespunzătoare a organismului.",
+      "sub-4": "CONDIȚII DE DEPOZITARE:",
+      "text-4": "Preparatul trebuie păstrat într-un ambalaj închis la temperatura camerei (15-25°C) într-un loc uscat, indisponibil copiilor mici. A se proteja de umiditate și lumină.",
+      "text-5": "Greutate netă: 32,4 g",
+      "text-6": "Termenul de valabilitate: 24 de luni de la data producției"
+    },
+    "dnf": "DNF -10® este vândut de firma Fytexia.",
+    "copy": "Copyright © 2022 Proleptin Forte www.proleptinforte.com. Toate drepturile rezervate."
+  },
+  "home": {
+    "hero": {
+      "badge": "NOUTATE!",
+      "intro": "Proleptin Forte cu ingredientul inovator {0}",
+      "intro-0": "DNF-10®",
+      "title": "REDUCEREA APETITULUI, SLĂBIRE MAI UȘOARĂ",
+      "subtitle": "Supliment de dietă destinat persoanelor care au nevoie de sprijin în slăbire"
+    },
+    "intro": {
+      "title": "APETITUL SUB CONTROL – PENTRU SLĂBIRE FĂRĂ SACRIFICII*",
+      "paragraph": "*Ingredientul activ al capsulelor Proleptin Forte este substanța brevetată cu denumirea {0}, a cărei eficiențe în reglarea apetitului a fost dovedită prin {1}",
+      "paragraph-0": "DNF-10®",
+      "paragraph-1": "cercetări clinice",
+      "icon-1": "Reducerea caloriilor consumate chiar și cu {0}",
+      "icon-1-0": "600 kcal zilnic",
+      "icon-2": "Pierderea treptată și sigură a kilogramelor inutile ",
+      "icon-3": "Mai puțini centrimetrii în circumferință (talie, șolduri, coapse)",
+      "icon-4": "Efecte {0}",
+      "icon-4-0": "confirmate de cercetările clinice",
+      "studies": "Rezultatele cercetărilor"
+    },
+    "dnf": {
+      "section-1": {
+        "subtitle": "DNF-10",
+        "title": "INGREDIENTUL ACTIV INOVATOR",
+        "paragraph-1": "Ingredientul activ al capsulelor Proleptin Forte, este fracția activă obținută după hidroliza proteinelor ciupercilor {0} – o drojdia cunoscută de omenire de mii de ani, utilizată în panificație și fabricarea berii. ",
+        "paragraph-1-0": "Saccharomyces cerevisiae",
+        "paragraph-2": "După 10 ani de cercetări clinice, s-a dovedit că această substanță ajută la controlarea foamei.",
+        "button": "Descărcați rezultatele cercetărilor clinice "
+      },
+      "section-2": {
+        "title": "MECANISMUL DE FUNCȚIONARE A {0} SE BAZEAZĂ PE TREI PILONI",
+        "title-0": "DNF-10®",
+        "icon-1": {
+          "title": "Stimularea hormonul de sațietate:",
+          "ing": "leptina",
+          "check-1": "Un sentiment îndelungat de sațietate după masă",
+          "check-2": "O dorință redusă pentru gustările dintre mese"
+        },
+        "icon-2": {
+          "title": "Stoparea hormonului foamei:",
+          "ing": "grelina",
+          "check-1": "Reducerea sentimentului de foame înainte de mese",
+          "check-2": "Consumarea unei cantități mai mici de mâncare"
+        },
+        "icon-3": {
+          "title": "Stoparea {0}, care mărește pofta de mâncare",
+          "title-0": "neuropeptidei Y",
+          "check-1": "Controlul apetitului între mese",
+          "check-2": "Limitarea dorinței pentru dulciuri și gustări"
+        }
+      }
+    },
+    "benefits": {
+      "subtitle": "DNF-10",
+      "title": "MULȚUMITĂ PROLEPTIN FORTE DIETA POATE DEVENI O PLĂCERE",
+      "check-1": "O foame redusă înainte de mese",
+      "check-2": "Un sentiment mai îndelungat de satietate după masă",
+      "check-3": "Pierderea treptată și sigură a masei corporale",
+      "icon-1": "Ingredient brevetat DNF-10®",
+      "icon-2": "Reducerea consumului de calorii după primele săptămâni",
+      "icon-3": "Pierderea considerabilă {0}",
+      "icon-3-0": "a greutății deja după prima lună",
+      "icon-4": "Pierderea masei corporale rezultată din reducerea țesutului adipos (nu muscular)",
+      "icon-5": "Pierderea masei corporale rezultate în mare măsură din reducerea grăsimii abdominale – {0}",
+      "icon-5-0": "reducerea considerabilă a circumferinței taliei",
+      "studies-link": "Citiți despre rezultatele cercetărilor clinice",
+      "studies": "ale ingredientului activ aflat în suplimentul Proleptin Forte"
+    },
+    "capsule": {
+      "title": "CALITATEA ESTE CARTEA NOASTRĂ DE VIZITĂ",
+      "paragraph": "Pentru a asigura sprijinul optim, utilizăm standarde de calitate înalte. Totul pentru ca efectele provenite din utilizarea capsulelor Proleptin Forte să îndeplinească chiar și așteptările celor mai exigenți Clienți.",
+      "check-1": "capsule vegane",
+      "check-2": "fără coloranți artificiali",
+      "check-3": "fără lactoză",
+      "check-4": "fără GMO"
+    },
+    "guarantee": {
+      "title": "GARANȚIA RETURNĂRII BANILOR",
+      "paragraph": "Încearcă Proleptin Forte fără risc. În cazul lipsei satisfacției, banii îți vor fi returnați. "
+    },
+    "charts": {
+     "section-1": {
+        "title": "AMPLIFICATOR DE SAȚIETATE",
+        "paragraph-1": "Persoanele care administrează DNF-10® reduc considerabil consumul de calorii după primele săptămâni de suplimentare.",
+        "paragraph-2": "După 2 luni de administrare zilnic, scade chiar și cu 600 de calorii.",
+        "paragraph-3": "După câteva săptămâni de administrare DNF-10, cercetații au un apetit redus pentru dulciuri și pentru fiecare dintre cele 3 grupe de macronutrienți: carbohidrați, grăsimi și proteine.",
+        "paragraph-4": "Un beneficiu foarte important, este că mulțumită suplimentării cu DNF-10®, circumferința din zona corpului care este atât de greu de slăbit, precum cea a taliei, se micșorează chiar și cu 5 cm în 2 luni.",
+        "info": "DNF-10® este vândut de firma Fytexia. Graficele au fost create pe baza cercetărilor clinice, {0}",
+        "info-0": "pe care le poți citi aici"
+      },
+      "section-2": {
+        "title": "PIERDEREA TREPTATĂ A MASEI CORPORALE",
+        "paragraph-1": "Cercetările clinice confirmă că pierderea masei corporale este considerabilă deja după prima lună de administrare DNF-10®.",
+        "paragraph-2": "Mai mult, 100% din masa corporală pierdută provine din țesutul adipos (nu muscular).",
+        "info": "DNF-10® este vândut de firma Fytexia. Graficele au fost create pe baza cercetărilor clinice, {0}",
+        "info-0": "pe care le poți citi aici"
+      },
+      "legend": {
+        "placebo": "Placebo",
+        "dnf": "DNF-10®",
+        "time": "W - săptămână",
+        "source": "Sursă: Fytexia.com"
+      },
+      "chart-1": {
+        "title": "CONSUM DE CALORII",
+        "text": "Schimbarea consumului zilnic de calorii în decursul suplimentării",
+        "score": "Rezultatul după 8 săptămâni: -600 kcal / zi"
+      },
+      "chart-2": {
+        "title": "CARBOHIDRAȚI",
+        "text": "Schimbarea consumului zilnic de calorii provenite din carbohidrați în perioada suplimentării",
+        "score": "Rezultatul după 8 săptămâni: -300 kcal / zi"
+      },
+      "chart-3": {
+        "title": "GRĂSIMI",
+        "text": "Schimbarea consumului zilnic de calorii provenite din grăsimi în perioada suplimentării",
+        "score": "Rezultatul după 8 săptămâni: -125 kcal / zi"
+      },
+      "chart-4": {
+        "title": "MASA CORPORALĂ",
+        "text": "Reducerea masei corporale în perioada suplimentării",
+        "score": "Rezultatul după 8 săptămâni: -1,6 kg"
+      },
+      "chart-5": {
+        "title": "ȚESUTUL ADIPOS",
+        "text": "Schimbarea conținutului țesutului adipos din organism în perioada suplimentăirii",
+        "score": "Rezultatul după 8 săptămâni: -2 kg"
+      }
+    },
+    "cta": {
+      "reviews": "129 de opinii",
+      "title-1": "FOAMEA SUB CONTROL",
+      "subtitle-1": "pentru o reducere treptată și sigură a kilogramelor",
+      "title-2": "Proleptin Forte",
+      "subtitle-2": "cu ingredientul activ inovator DNF-10®",
+      "check-1": "Disponibilitate",
+      "check-2": "în depozit",
+      "check-3": "Cutie",
+      "check-4": "60 de capsule",
+      "check-5": "Livrare",
+      "check-6": "1-3 zile lucrătoare",
+      "btn": "ADAUGĂ ÎN COȘ",
+      "capsules": "capsule",
+      "info": "redu-ți greutatea cu"
+    },
+    "faq": {
+      "title": "FAQ – citiți răspunsurile pentru cele mai frevente întrebări puse",
+      "more": "MAI MULT",
+      "less": "MAI PUȚIN",
+      "question-1": {
+        "q": "Ce este Proleptin Forte?",
+        "a": "Proleptin Forte este suplimentul alimentar destinat femeilor și bărbaților, care vor într-un mod sigur să scape de țesutul adipos excesiv. Fiecare capsulă a preparatului conține 250 mg de substanță activă cu denumirea de DNF-10®, a cărei eficiență în reducerea masei corpului a fost dovedită de cercetările clinice."
+      },
+      "question-2": {
+        "q": "Cum funcționează DNF-10®?",
+        "a-1": "Mecanismul funcționării DNF-10® se bazează pe 3 piloni:",
+        "a-2": "Influența inhibitoare asupra neuropeptidelor Y – ceea ce rezultă cu reducerea apetitului în perioada zilei",
+        "a-3": "Influența inhibitoare asupra grelinei, adică „hormonul foamei” – ceea ce rezultă cu reducerea sentimentului de foame înainte de mese",
+        "a-4": "Influența care reglează funcțiunea leptinei, adică „hormonul sațietății” – ceea ce rezultă cu o sațietate îndelungată după mese",
+        "a-5": "Toate acestea acționează asupra {0} și rezultă cu pierderea masei corporale în siguranță. Important este, că pierderea masei corporale se desfășoară 100% din țesutul adipos.",
+        "a-5-0": "reducerii consumului de calorii chiar și cu 600 kcal zilnic"
+      },
+      "question-3": {
+        "q": "Cum să utilizăm Proleptin Forte?",
+        "a": "Suplimentul trebuie utilizat de 2 ori câte 1 capsulă pe zi. Prima capsulă trebuie administrată înainte cu 30 de minute înainte de micul dejun, iar a doua cu 30 de minute înainte de prânz. Capsulele trebuie luate cu un pahar de apă."
+      },
+      "question-4": {
+        "q": "Pentru cât timp este suficientă o cutie cu capsule Proleptin Forte?",
+        "a": "O cutie conține 60 de capsule și este suficientă pentru 30 de zile de utilizare."
+      },
+      "question-5": {
+        "q": "Care sunt contraindicațiile utilizării Proleptin Forte?",
+        "a": "Suplimentul nu trebuie utilizat în cazul alergiilor sau a sensibilității la oricare dintre ingredientele sale. Produsul nu ar trebui administrat de asemenea de copii, de femeile însărcinate și de cele care alăptează."
+      },
+      "question-6": {
+        "q": "Utilizarea provoacă efecte adverse?",
+        "a": "Calitatea înaltă a selecției de ingrediente nu ar trebui să provoace efecte adverse. Suplimentul nu trebuie utilizat în cazul alergiilor sau a sensibilității la oricare dintre ingrediente. Lista lor detaliată se află pe prospectul alăturat cutiei, care trebuie citit înainte de administrarea primei capsule."
+      },
+      "question-7": {
+        "q": "Când voi vedea primele efecte?",
+        "a": "Aceasta este o chestiune individuală și depinde de predispozițiile individuale ale fiecărei persoane. De obicei primele efecte pot fi văzute deja după prima săptămână de utilizare."
+      },
+      "question-8": {
+        "q": "Proleptin Forte a fost testat în laborator?",
+        "a": "Desigur. Produsul a fost cercetat și permis utilizării, iar eficiența substanței active DNF-10® a fost dovedită prin cercetări clinice."
+      },
+      "question-9": {
+        "q": "Cum este ambalat produsul înainte de înmânare?",
+        "a": "Confortul dumneavoastră este prioritatea noastră. Toate expedierile sunt ambalate într-o cutie discretă, care nu segerează în niciun mod conținutul pachetului. Nimeni altcineva nu va afla ce se află în interior."
+      },
+      "question-10": {
+        "q": "Este posibilă expedierea peste hotare?",
+        "a": "Da. Expedierile le putem face aproape în orice țară a Uniunii Europene."
+      },
+      "question-11": {
+        "q": "Cât de mult trebuie să așteptăm livrarea?",
+        "a": "Perioada de așteptare a livrării în România cel mai frecvent este de până la 3 zile lucrătoare, deși deseori ajunge deja după 1 zi. În cazul expedierilor peste hotare perioada de așteptare se poate prelungi nesemnificativ – acest lucru depinde de distanță și de firma de curierat. Când consultantul vă va contacta telefonic pentru a confirma adresa de expediere, stabiliți de asemenea și termenul prevăzut al livrării."
+      },
+      "question-12": {
+        "q": "Pot plăti pentru colet la primire?",
+        "a": "Da. Oferim posibilitatea de a alege cea mai confortabilă formă de plată, printre acestea posibilitatea plății la primire."
+      },
+      "question-13": {
+        "q": "Cum arată procesul comenzii?",
+        "a": "Comanda trebuie efectuată prin intermediul acestei pagini de internet, apăsând butonul „ADAUGĂ ÎN COȘ” și completând formularul comenzii. După care consultantul vă va contacta telefonic, pentru a confirma adresa de livrare."
+      }
+    },
+    "reviews": {
+      "title": "CLIENȚII SATISFĂCUȚI RECOMANDĂ CAPSULELE PROLEPTIN FORTE",
+      "subtitle": "Citiți opiniile acestora și... alăturați-vă lor!",
+      "review-1": {
+        "stars": "4.9",
+        "text": "„Mânca cantități enorme de dulciuri și asta se vedea după burta mea... Am început să iau Proleptin și dorința mea pentru dulciuri a trecut. Am dat jos deja 11 kg și sunt în al șaptelea cer”",
+        "name": "Alina, Galați"
+      },
+      "review-2": {
+        "stars": "4.8",
+        "text": "„Încerc să slăbesc deja de jumătate de an și dieta era pentru mine un chin total, chiar mai rea și decât exercițiile. Și acum, mulțumită acestor capsule, mă simt în sfrâșit sătulă după SALATĂ! Când merg la magazin nu mă mai tentează să arunc ciocolată sau batonuri în coș. Este fenomenlal!!!”",
+        "name": "Dorina, București"
+      },
+      "review-3": {
+        "stars": "5.0",
+        "text": "„De când iau aceste capsule, am început să mai mănânc compulsiv. În loc de asta, m-am dus la sală și din greutate mi-au scăzut deja 16 kg.”",
+        "name": "Mihai, Constanța"
+      },
+      "review-4": {
+        "stars": "4.5",
+        "text": "„M-a convins faptul că acest preparat este cercetat științific. Nu face minuni, însă foamea se reduce cu adevărat și de la o săptămână la alta, cu câteva kilograme mai puțin. Recomand.”",
+        "name": "Diana, Oradea"
+      },
+      "review-5": {
+        "stars": "4.7",
+        "text": "„Cândva mă bucuram de mâncare. De când iau, nu mai salivez cu gândul la fast fooduri. Pentru mine este extraordinar.”",
+        "name": "Adrian, Brașov"
+      },
+      "review-6": {
+        "stars": "5.0",
+        "text": "„Suplimentul Proleptin Forte m-a ajutat foarte mult să mănânc mai puțin. Pur și simplu funcționează cu adevărat! L-am recomandat deja tuturor cunoștiințelor, care voiau să slăbească. Și fiecare îmi mulțumește!”",
+        "name": "Claudia, Cluj"
+      },
+      "review-7": {
+        "stars": "4.9",
+        "text": "„Cu aceste capsule mănânc în sfârșit cât am nevoie cu adevărat, fără să-mi bag toate mizeriile în stomac.”",
+        "name": "Mirela, Bacău"
+      },
+      "review-8": {
+        "stars": "4.8",
+        "text": "„Mereu mâncam când eram stresat, în special noaptea, iar de când iau aceste capsule: atacurile de foame din noapte au trecut, iar burta se micșorează. Am pierdut deja 8 cm în talie.”",
+        "name": "Lucian, Vaslui"
+      },
+      "review-9": {
+        "stars": "5.0",
+        "text": "„Îmi comandam dietă la cutie, dar după aceasta eram mereu înfometată și supărată. De 3 luni iau Proleptin și simt că această dietă este suficientă. Am mai multă putere și în general optimism. Mă mișc mai mult, iar pe cântar am cu până la 8 kg mai puțin. Încap deja în pantalonii dinaintea sarcinii! Minunat”",
+        "name": "Elena, Brăila"
+      },
+      "review-10": {
+        "stars": "4.5",
+        "text": "„Cea mai bună dietă este MMP – mănâncă mai puțin. Și cu acest supliemnt iese cu adevărat.”",
+        "name": "Radu, Vâlcea"
+      },
+      "review-11": {
+        "stars": "4.7",
+        "text": "„Dacă aș fi știut mai devreme că există un asemenea DNF-10, mi-aș fi economisit mulți ani de suferință... Eram foarte pufoasă, iar acum merg în mărimea S și ador formele mele!”",
+        "name": "Eleonora, Vaslui"
+      },
+      "review-12": {
+        "stars": "5.0",
+        "text": "„Mă temeam puțin, că mie de la Proleptin mâncarea va înceta să mai fie gustoasă. Dar nu este așa. Are același gust, doar că omul încetează să mai mănânce în plus și grăsimea suplimentară dispare. La mine minus 7 kg. O revelație”",
+        "name": "Adina, Dolj"
+      },
+      "review-13": {
+        "stars": "4.9",
+        "text": "„Pe mine aceste capsule m-au ajutat să ies din obezitatea morbidă…”",
+        "name": "Petru, București"
+      },
+      "review-14": {
+        "stars": "4.8",
+        "text": "„Proleptin a grăbit slăbirea mea înainte de nuntă, și mă temeam deja că nu voi face față! Scopul – minus 10 kg în 3 luni – am realizat asta în mai puțin de 2 luni!”",
+        "name": "Marieta, Vâlcea"
+      },
+      "info": "*Efectele sunt o chestiune individuală și pot diferi la anumite persoane. {0}",
+      "info-0": "Despre rezultatele cercetărilor clinice citiți aici"
+    }
+  },
+  "order": {
+    "steps": {
+      "contact": "DATE DE CONTACT",
+      "address": "DATE DE ADRESĂ",
+      "ssl": "Datele dumneavoastră sunt 100% sigure.",
+      "legend": "* Câmpuri obligatorii"
+    },
+    "form": {
+      "firstname": "Prenume",
+      "lastname": "Nume",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "info": "Telefonul este necesar pentru expedierea prin curier",
+      "next": "Următorul pas:",
+      "address": "Adresă (stradă, numărul locuinței)",
+      "zip": "Cod poștal",
+      "city": "Oraș",
+      "country": "Țară",
+      "cod": "Plata la primire la curier (ramburs)",
+      "online": "Plata în avans - transfer electronic (plată anticipată)",
+      "legal":  {
+        "terms": "Regulamentul",
+        "privacy": "Politica de Confidențialitate",
+        "text": "Am citit și accept {0} și {1}."
+      },
+      "rodo": {
+        "privacy": "Politica de Confidențialitate",
+        "text": "Administratorul datelor dumneavoastră personale este Nutrilab Sp. z o. o.. Datele sunt procesate în scopul efecturării și realizării comenzilor, cât și în scopuri auxiliare. Detalii: {0}."
+      },
+      "order": "Comand",
+      "errors": {
+        "required": "Este obligatorie completarea acestui câmp.",
+        "invalid": "Câmpul este completat greșit."
+      }
+    },
+    "cart": {
+      "title": "Coșul tău",
+      "package": "Cutie cu 60 de capsule:",
+      "delivery": "Livrare:",
+      "quantity": "Cantitate:",
+      "total": "În total:"
+    }
+  },
+  "typ": {
+    "title": "Vă mulțumim!",
+    "subtitle": "În curând vă va contacta consultantul nostru și va confirma datele de expediere."
+  }
+}

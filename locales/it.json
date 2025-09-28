@@ -1,0 +1,431 @@
+{
+  "global": {
+    "product": "Proleptin Forte",
+    "price": "63",
+    "currency": "€",
+    "country": "Italia",
+    "title": "Proleptin Forte",
+    "description": "L'integratore alimentare Proleptin Forte contiene un innovativo ingrediente DNF-10® che permette di ridurre il numero di calorie consumate di 600 kcal al giorno. Fame sotto controllo, meno appetito - un dimagrimento più facile!"
+  },
+  "header": {
+    "nav": {
+      "dnf": {
+        "name": "DNF-10®",
+        "path": "dnf10"
+      },
+      "effects": {
+        "name": "EFFETTI DI UTILIZZO ",
+        "path": "effetti-di-utilizzo"
+      },
+      "reviews": {
+        "name": "OPINIONI ",
+        "path": "opinioni"
+      },
+      "contact": {
+        "name": "CONTATTI",
+        "path": "contatti"
+      }
+    },
+    "order": {
+      "name": "ORDINA ORA",
+      "path": "ordina-ora"
+    }
+  },
+  "language": {
+    "text": "LINGUA / Language:",
+    "choose": "SCEGLI LA LINGUA",
+    "back": "Indietro"
+  },
+  "contact": {
+    "phone": {
+      "title": "CHIAMACI:",
+      "plus": "+39",
+      "number": "0697622422/39",
+      "link": "+390697622422/39",
+      "copy": "Copia il numero negli appunti",
+      "hours": "Il numero verde è attivo dal lunedì al venerdì: dalle ore 8:00 alle 20:00.",
+      "price": "Costo della chiamata secondo le tariffe dell'operatore."
+    },
+    "email": {
+      "title": "INDIRIZZO EMAIL:",
+      "address": "contact",
+      "copy": "Copia l'indirizzo negli appunti"
+    },
+    "copied": "Copiato!"
+  },
+  "legal": {
+    "privacy": {
+      "name": "Politica sulla Privacy",
+      "path": "politica-sulla-privacy"
+    },
+    "regulations": {
+      "name": "Termini e condizioni",
+      "path": "termini-e-condizioni"
+    }
+  },
+  "footer": {
+    "social": "Social media",
+    "form": {
+      "title": "SCRIVICI",
+      "name": "Nome:",
+      "surname": "Cognome:",
+      "email": "E-mail:",
+      "message": "Messaggio:",
+      "submit": "Invia",
+      "error": "Ops! Qualcosa è andato storto.",
+      "success": "Il tuo messaggio è stato inviato."
+    },
+    "icons": {
+      "delivery": "Consegna veloce e sicura",
+      "package": "Spedizione gratuita",
+      "gurantee": "Garanzia di rimborso dei soldi"
+    },
+    "info": {
+      "title": "ETICHETTA DEL PRODOTTO",
+      "sub-1": "INGREDIENTI:",
+      "text-1": "DNF-10® - un idrolizzato proteico brevettato ottenuto da lievito Saccharomyces cerevisiae, farina di riso, cellulosa - un componente della capsula. DNF-10® è di proprietà di società Fytexia.",
+      "sub-2": "MODALITÀ D'USO:",
+      "text-2": "2 x 1 capsula al giorno. La capsula va assunta 30 minuti prima di colazione e pranzo e accompagnata con un bicchiere d'acqua.",
+      "sub-3": "AVVERTENZE:",
+      "text-3": "Non superare la porzione giornaliera di preparato consigliata per il consumo. Non utilizzare in caso di ipersensibilità ad uno qualsiasi degli ingredienti del preparato. Il preparato non è destinato a donne in gravidanza o in fase di allattamento e persone di età inferiore ai 18 anni. Un integratore alimentare non può sostituire una dieta variata. Una dieta equilibrata e uno stile di vita sano sono importanti per il corretto funzionamento dell'organismo.",
+      "sub-4": "CONDIZIONI DI CONSERVAZIONE:",
+      "text-4": "Il preparato va conservato in una confezione chiusa a temperatura ambiente (15-25°C) in un luogo asciutto, fuori dalla portata dei bambini piccoli. Proteggere dall'umidità e dalla luce.",
+      "text-5": "Peso netto: 32,4 g",
+      "text-6": "Scadenza: 24 mesi dalla data di produzione"
+    },
+    "dnf": "DNF -10® viene venduto dalla società Fytexia.",
+    "copy": "Copyright © 2022 Proleptin Forte www.proleptinforte.com. Tutti i diritti riservati."
+  },
+  "home": {
+    "hero": {
+      "badge": "NOVITÀ!",
+      "intro": "Proleptin Forte con l'ingrediente innovativo {0}",
+      "intro-0": "DNF-10®",
+      "title": "RIDUZIONE DELL'APPETITO, DIMAGRIMENTO PIÙ FACILE",
+      "subtitle": "Integratore alimentare dedicato alle persone che necessitano di supporto nella perdita di peso"
+    },
+    "intro": {
+      "title": "APPETITO SOTTO CONTROLLO - PER PERDERE PESO SENZA SACRIFICI *",
+      "paragraph": "* Il principio attivo delle capsule Proleptin Forte è una sostanza brevettata chiamata {0}, la cui efficacia nella regolazione dell'appetito è stata dimostrata da {1}",
+      "paragraph-0": "DNF-10®",
+      "paragraph-1": "studi clinici",
+      "icon-1": "Riduzione dell'apporto calorico anche di {0}",
+      "icon-1-0": "600 kcal al giorno",
+      "icon-2": "Perdita graduale e sicura dei chili di troppo",
+      "icon-3": "Meno centimetri nelle circonferenze (girovita, fianchi, cosce)",
+      "icon-4": "Effetti {0}",
+      "icon-4-0": "confermati da studi clinici",
+      "studies": "Risultati dei test"
+    },
+    "dnf": {
+      "section-1": {
+        "subtitle": "DNF-10",
+        "title": "PRINCIPIO ATTIVO INNOVATIVO",
+        "paragraph-1": "Il principio attivo delle capsule Proleptin Forte è una frazione attiva ottenuta con l'idrolisi della proteina dei funghi {0} - un lievito conosciuto dall'umanità da migliaia di anni, utilizzato nella produzione di pane e birra.",
+        "paragraph-1-0": "Saccharomyces cerevisiae",
+        "paragraph-2": "In 10 anni di studi clinici, è stato dimostrato che questa sostanza aiuta a controllare la fame.",
+        "button": "Scarica i risultati degli studi clinici"
+      },
+      "section-2": {
+        "title": "IL MECCANISMO {0} SI BASA SU 3 PILASTRI",
+        "title-0": "DNF-10®",
+        "icon-1": {
+          "title": "Stimolazione ell'ormone della sazietà:",
+          "ing": "leptina",
+          "check-1": "Senso di sazietà più lungo dopo un pasto",
+          "check-2": "Meno voglia di fare uno o più spuntini fuori pasto"
+        },
+        "icon-2": {
+          "title": "Arresto dell'ormone della fame:",
+          "ing": "grelina",
+          "check-1": "Meno fame prima di un pasto",
+          "check-2": "Quantità ridotta del cibo consumato"
+        },
+        "icon-3": {
+          "title": "Arresto del {0}, che aumenta il senso di fame",
+          "title-0": "neuropeptide Y",
+          "check-1": "Controllo dell'appetito tra i pasti",
+          "check-2": "Meno voglia di dolci e snack"
+        }
+      }
+    },
+    "benefits": {
+      "subtitle": "DNF-10",
+      "title": "GRAZIE A PROLEPTIN FORTE LA TUA DIETA PUÒ DIVENTARE UN PIACERE",
+      "check-1": "Meno fame prima di un pasto",
+      "check-2": "Senso di sazietà più lungo dopo un pasto",
+      "check-3": "Perdita di peso graduale e sicura",
+      "icon-1": "Componente brevettato DNF-10®",
+      "icon-2": "Riduzione dell'apporto calorico dopo le prime settimane",
+      "icon-3": "Perdita di peso significativa {0}",
+      "icon-3-0": "dopo il primo mese",
+      "icon-4": "Perdita del peso corporeo dovuta alla riduzione del tessuto adiposo (non muscolare)",
+      "icon-5": "Perdita del peso corporeo in gran parte dovuta alla riduzione del grasso addominale - {0}",
+      "icon-5-0": "circonferenza del girovita notevolmente ridotta",
+      "studies-link": "Leggi i risultati delle sperimentazioni cliniche",
+      "studies": "del principio attivo contenuto nell'integratore Proleptin Forte "
+    },
+    "capsule": {
+      "title": "LA QUALITÀ È IL NOSTRO BIGLIETTO DA VISITA",
+      "paragraph": "Applichiamo standard di qualità elevati per garantire un supporto ottimale. Tutto ciò affinché gli effetti dell'utilizzo delle capsule Proleptin Forte soddisfino le aspettative anche dei clienti più esigenti.",
+      "check-1": "capsule vegane",
+      "check-2": "senza coloranti artificiali",
+      "check-3": "senza lattosio",
+      "check-4": "senza OGM"
+    },
+    "guarantee": {
+      "title": "GARANZIA DI RIMBORSO DEI SOLDI",
+      "paragraph": "Prova Proleptin Forte senza rischi. In caso di insoddisfazione, i tuoi soldi ti verranno restituiti."
+    },
+    "charts": {
+     "section-1": {
+        "title": "AMPLIFICATORE DEL SENSO DI SAZIETÀ",
+        "paragraph-1": "Le persone che assumono DNF-10® riducono significativamente il loro apporto calorico dopo le prime settimane di supplementazione.",
+        "paragraph-2": "Dopo 2 mesi, il consumo giornaliero scende di 600 calorie.",
+        "paragraph-3": "Dopo alcune settimane di assunzione di DNF-10, i partecipanti ai test avevano una ridotta voglia di dolci e desiderio di mangiare 3 singoli gruppi di macronutrienti: carboidrati, grassi e proteine.",
+        "paragraph-4": "Un vantaggio molto significativo è che grazie alla supplementazione con DNF-10®, la circonferenza di una parte del corpo così difficile da dimagrire come il girovita viene ridotta anche di 5 cm in 2 mesi.",
+        "info": "DNF-10® viene venduto dalla società Fytexia. I grafici si basano su studi clinici {0}",
+        "info-0": "disponibili qui"
+      },
+      "section-2": {
+        "title": "PERDITA GRADUALE DI PESO CORPOREO",
+        "paragraph-1": "Studi clinici confermano che la perdita di peso è significativa ormai dal primo mese di assunzione di DNF-10®.",
+        "paragraph-2": "Inoltre, il 100% della perdita di peso viene dal tessuto adiposo (non muscolare).",
+        "info": "DNF-10® viene venduto dalla società Fytexia. I grafici si basano su studi clinici {0}",
+        "info-0": "disponibili qui"
+      },
+      "legend": {
+        "placebo": "Placebo",
+        "dnf": "DNF-10®",
+        "time": "W - settimana",
+        "source": "Fonte"
+      },
+      "chart-1": {
+        "title": "CONSUMO CALORICO ",
+        "text": "Modifica dell'apporto calorico giornaliero durante la supplementazione",
+        "score": "Risultato dopo 8 settimane: -600 kcal / giorno"
+      },
+      "chart-2": {
+        "title": "CARBOIDRATI",
+        "text": "Modifica dell'apporto calorico giornaliero dai carboidrati  durante la supplementazione",
+        "score": "Risultato dopo 8 settimane: -300 kcal / giorno"
+      },
+      "chart-3": {
+        "title": "GRASSI",
+        "text": "Modifica dell'apporto calorico giornaliero dai grassi durante la supplementazione",
+        "score": "Risultato dopo 8 settimane: -125 kcal / giorno"
+      },
+      "chart-4": {
+        "title": "PESO CORPOREO",
+        "text": "Riduzione del peso corporeo durante la supplementazione",
+        "score": "Risultato dopo 8 settimane: -1,6 kg"
+      },
+      "chart-5": {
+        "title": "TESSUTO ADIPOSO",
+        "text": "Modifica del contenuto di tessuto adiposo durante la supplementazione",
+        "score": "Risultato dopo 8 settimane: -2 kg"
+      }
+    },
+    "cta": {
+      "reviews": "129 opinioni",
+      "title-1": "FAME SOTTO CONTROLLO",
+      "subtitle-1": "per una riduzione graduale e sicura del peso",
+      "title-2": "Proleptin Forte",
+      "subtitle-2": "con l'innovativo principio attivo DNF-10®",
+      "check-1": "Disponibilità:",
+      "check-2": "in magazzino",
+      "check-3": "Confezione",
+      "check-4": "60 capsule",
+      "check-5": "Consegna",
+      "check-6": "1-3 giorni lavorativi",
+      "btn": "AGGIUNGI AL CARRELLO",
+      "capsules": "capsule",
+      "info": "riduci il tuo peso di "
+    },
+    "faq": {
+      "title": "FAQ - scopri le risposte alle domande più frequenti",
+      "more": "IN PIÙ",
+      "less": "IN MENO",
+      "question-1": {
+        "q": "Cos'è Proleptin Forte?",
+        "a": "Proleptin Forte è un integratore alimentare destinato alle donne e agli uomini che desiderano sbarazzarsi in sicurezza del grasso corporeo in eccesso. Ogni capsula del preparato contiene 250 mg del principio attivo chiamato DNF-10®, la cui efficacia nella riduzione del peso corporeo è stata dimostrata da studi clinici."
+      },
+      "question-2": {
+        "q": "Come funziona DNF-10®?",
+        "a-1": "Il meccanismo d'azione di DNF-10® si basa su 3 pilastri:",
+        "a-2": "Effetto inibitorio sul neuropeptide Y - con conseguente diminuzione dell'appetito durante il giorno",
+        "a-3": "Effetto inibitorio sulla grelina, il cosiddetto \"ormone della fame\" - riduce la sensazione di fame prima dei pasti",
+        "a-4": "Effetto regolatore della leptina, il cosiddetto \"ormone della sazietà\" - si traduce in un senso di sazietà più lunga dopo i pasti",
+        "a-5": "Tutto questo influisce sulla {0} e si traduce in una sicura perdita di peso. Per di più perdi il 100% del grasso corporeo. ",
+        "a-5-0": "riduzione dell'apporto calorico anche di 600 kcal al giorno"
+      },
+      "question-3": {
+        "q": "Come usare Proleptin Forte?",
+        "a": "L'integratore va utilizzato assumendo 1 capsula 2 volte al giorno. La prima capsula va assunta 30 minuti prima di colazione e la seconda capsula 30 minuti prima di pranzo. Accompagnare le capsule con un bicchiere d'acqua."
+      },
+      "question-4": {
+        "q": "Per quanto basta una confezione di capsule di Proleptin Forte?",
+        "a": "Una confezione contiene 60 capsule e dura 30 giorni."
+      },
+      "question-5": {
+        "q": "Quali sono le controindicazioni all'uso di Proleptin Forte?",
+        "a": "L'integratore non deve essere utilizzato in caso di allergie o ipersensibilità a uno qualsiasi dei suoi ingredienti. Il prodotto non deve essere utilizzato da bambini, donne in gravidanza e in fase di allattamento."
+      },
+      "question-6": {
+        "q": "Ci sono effetti collaterali dell'utilizzo?",
+        "a": "Ingredienti selezionati di alta qualità non dovrebbero causare effetti collaterali. L'integratore non deve essere utilizzato in caso di allergie o ipersensibilità a uno qualsiasi degli ingredienti. Un elenco dettagliato è contenuto nel foglio illustrativo, che deve essere letto prima di assumere la prima capsula."
+      },
+      "question-7": {
+        "q": "Quando vedrò i primi effetti?",
+        "a": "È una questione individuale e dipende dalle predisposizioni naturali di ogni persona. Di solito, i primi effetti possono essere notati già durante la prima settimana di utilizzo."
+      },
+      "question-8": {
+        "q": "Proleptin Forte è stato testato in laboratorio?",
+        "a": "Certo che sì. Il prodotto è stato testato e approvato per l'uso e l'efficacia del principio attivo DNF-10® è stata dimostrata da test clinici."
+      },
+      "question-9": {
+        "q": "Come viene imballato il prodotto al momento della consegna?",
+        "a": "Il tuo comfort è la nostra priorità. Tutti i pacchi sono imballati in scatole discrete che non suggeriscono in alcun modo il contenuto del pacco. Nessun estraneo saprà cosa c'è dentro."
+      },
+      "question-10": {
+        "q": "È possibile spedire all'estero?",
+        "a": "Sì. Possiamo consegnare la spedizione in quasi tutti i paesi dell'Unione Europea. "
+      },
+      "question-11": {
+        "q": "Quanto tempo ci vuole per la consegna?",
+        "a": "La consegna standard dei pacchi in Italia avviene entro un massimo di 3 giorni lavorativi, anche se spesso i pacchi vengono consegnati dopo 1 solo giorno. Nel caso di spedizioni estere, il tempo di attesa potrebbe essere leggermente più lungo, dipende dalla distanza e dal corriere. Quando il consulente ti contatterà telefonicamente per confermare l'indirizzo di spedizione, specificherà anche la data di consegna prevista."
+      },
+      "question-12": {
+        "q": "È possibile pagare il pacco alla consegna?",
+        "a": "Sì. Ti diamo la possibilità di scegliere il metodo di pagamento più conveniente, incluso il pagamento in contrassegno."
+      },
+      "question-13": {
+        "q": "Come avviene il processo di ordinazione?",
+        "a": "L'ordine deve essere effettuato tramite questo sito web cliccando sul pulsante \"AGGIUNGI AL CARRELLO\" e compilando il modulo d'ordine. Quindi, un nostro consulente ti contatterà telefonicamente per confermare l'indirizzo di spedizione."
+      }
+    },
+    "reviews": {
+      "title": "I CLIENTI SODDISFATTI CONSIGLIANO LE CAPSULE PROLEPTIN FORTE",
+      "subtitle": "Leggi le loro opinioni e... unisciti a loro!",
+      "review-1": {
+        "stars": "4.9",
+        "text": "„Consumavo enormi quantità di dolci e avevo la pancia grassissima ... Ho iniziato a prendere Proleptin e la voglia di dolci è sparita. Ho già perso 11 kg e sono al settimo cielo 🥰🥰🥰”",
+        "name": "Alice, Cosenza"
+      },
+      "review-2": {
+        "stars": "4.8",
+        "text": "„Sono stata a dieta per sei mesi ed è stato un disastro totale, peggio dell'esercizio fisico. Ma ora, grazie a queste capsule, mi sento finalmente sazia anche dopo aver mangiato l'INSALATA! Quando vado al supermercato, non ho più la tentazione di comprare cioccolatini o barrette. Qualcosa di straordinario!!!”",
+        "name": "Ilaria, ​​Roma"
+      },
+      "review-3": {
+        "stars": "5.0",
+        "text": "„Da quando uso queste capsule ho smesso di mangiare in modo compulsivo. Invece, mi sono iscritto in palestra e ho perso 16 kg.”",
+        "name": "Mariano, Siena"
+      },
+      "review-4": {
+        "stars": "4.5",
+        "text": "„Mi ha convinto il fatto che questo preparato è scientificamente testato. Non fa miracoli, ma la fame viene effettivamente ridotta e perdi qualche chilo da una settimana all'altra. Lo consiglio. 😊”",
+        "name": "Arianna, Firenze "
+      },
+      "review-5": {
+        "stars": "4.7",
+        "text": "„Mi consolavo con il cibo. Da quando uso il prodotto, non sbavo più alla vista dei fast food. Sono contentissimo.”",
+        "name": "Arturo, Bari"
+      },
+      "review-6": {
+        "stars": "5.0",
+        "text": "“L'integratore Proleptin Forte mi ha aiutato a mangiare di meno. Funziona davvero! L'ho già consigliato a tutti i miei amici che volevano dimagrire. E ora tutti mi ringraziano!”",
+        "name": "Claudia, Torino"
+      },
+      "review-7": {
+        "stars": "4.9",
+        "text": "„Con queste capsule finalmente mangio quanto mi serve senza appesantire lo stomaco.”",
+        "name": "Simona, Milano"
+      },
+      "review-8": {
+        "stars": "4.8",
+        "text": "„Ho sempre mangiato per ansia e stress, soprattutto di notte, ma da quando prendo queste capsule: gli attacchi di fame notturni sono spariti e sto pure perdendo il grasso di pancia. Ho già perso ben 8 cm di girovita. 😉”",
+        "name": "Mattia, Lecce"
+      },
+      "review-9": {
+        "stars": "5.0",
+        "text": "„Ho ordinato una dieta a domicilio, ma ero sempre affamata e nervosa. Prendo Proleptin da 3 mesi e penso che questa dieta sia sufficiente. Ho più forze e ottimismo in generale. Mi muovo di più e sulla bilancia vedo 8 kg in meno. Entro già nei pantaloni pre gravidanza! Fantastico 💛”",
+        "name": "Stefania, Pisa"
+      },
+      "review-10": {
+        "stars": "4.5",
+        "text": "„La migliore dieta dimagrante è mangiare meno 😅 E con questo integratore funziona davvero.”",
+        "name": "Raffaello, Tropea"
+      },
+      "review-11": {
+        "stars": "4.7",
+        "text": "„Se solo avessi saputo prima che esiste un tale DNF-10, avrei risparmiato molti anni di sofferenza... Ero quasi obesa, ora vesto la taglia S e adoro il mio corpo! 🥲”",
+        "name": "Elisa, Napoli"
+      },
+      "review-12": {
+        "stars": "5.0",
+        "text": "„Avevo un po' paura che Proleptin mi impedisse di trarre piacere dal cibo. Ma non è così. Ha un sapore normale, l'unica differenza è che smetti di mangiare troppo e il grasso in eccesso scompare. Ho perso 7 kg. Una meraviglia”",
+        "name": "Anna, Venezia"
+      },
+      "review-13": {
+        "stars": "4.9",
+        "text": "„Queste capsule mi hanno aiutato a uscire dall'obesità morbosa...”",
+        "name": "Pietro, Roma"
+      },
+      "review-14": {
+        "stars": "4.8",
+        "text": "„Proleptin ha accelerato la mia perdita di peso prima del matrimonio, anche se avevo già paura di non farcela! Il mio obiettivo - perdere 10 kg in 3 mesi - l'ho raggiunto in meno di 2 mesi!”",
+        "name": "Marta, Palermo"
+      },
+      "info": "* Gli effetti sono una questione individuale e possono variare da persona a persona. {0}",
+      "info-0": "Puoi leggere i risultati degli studi clinici qui"
+    }
+  },
+  "order": {
+    "steps": {
+      "contact": "DETTAGLI DI CONTATTO",
+      "address": "DATI DI RECAPITO",
+      "ssl": "I tuoi dati sono al sicuro al 100%.",
+      "legend": "* Campi obbligatori"
+    },
+    "form": {
+      "firstname": "Nome",
+      "lastname": "Cognome",
+      "email": "E-mail",
+      "phone": "Telefono",
+      "info": "Il telefono è necessario per la consegna da parte del corriere",
+      "next": "Passo successivo:",
+      "address": "Indirizzo (via, numero civico interno)",
+      "zip": "Codice postale ",
+      "city": "Città",
+      "country": "Paese",
+      "cod": "Pagamento alla consegna, direttamente al corriere (in contrassegno)",
+      "online": "Pagamento anticipato - bonifico elettronico (bonifico anticipato)",
+      "legal":  {
+        "terms": "Termini e condizioni",
+        "privacy": "Politica sulla Privacy",
+        "text": "Ho letto e accetto i {0} e la {1}."
+      },
+      "rodo": {
+        "privacy": "Politica sulla Privacy",
+        "text": "L'amministratore dei tuoi dati personali è Nutrilab Sp. z o. o.. I dati vengno trattati ai fini dell'effettuazione e dell'esecuzione dell'ordine e per finalità ausiliari. Dettagli: {0}."
+      },
+      "order": "Ordino",
+      "errors": {
+        "required": "Questo campo è obbligatorio.",
+        "invalid": "Il campo è compilato in modo errato."
+      }
+    },
+    "cart": {
+      "title": "Il tuo carrello",
+      "package": "Confezione da 60 capsule",
+      "delivery": "Consegna",
+      "quantity": "Quantità",
+      "total": "Totale"
+    }
+  },
+  "typ": {
+    "title": "Grazie!",
+    "subtitle": "Verrai contattato prestoda un nostro consulente che confermerà i tuoi dati di spedizione."
+  }
+}
