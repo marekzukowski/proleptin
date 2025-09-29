@@ -1,9 +1,11 @@
 <script setup>
 import { useI18n } from "#i18n";
 import { useMediaQuery } from "@vueuse/core";
+import { useRuntimeConfig } from "nuxt/app";
+const config = useRuntimeConfig();
 const { t } = useI18n();
 const isLargeScreen = useMediaQuery("(min-width: 1024px)");
-const bg = "background-image: url('/prolepitn/img/section-bg.jpg')";
+const bg = config.app.baseURL + "img/section-bg.jpg";
 </script>
 
 <template>
@@ -16,7 +18,7 @@ const bg = "background-image: url('/prolepitn/img/section-bg.jpg')";
       />
       <div
         class="bg-primary-700 py-10 lg:py-16 lg:bg-cover lg:bg-no-repeat lg:bg-center"
-        :style="isLargeScreen ? bg : ''"
+        :style="isLargeScreen ? 'background-image: url(' + bg + ')' : ''"
       >
         <div class="px-3 lg:container mx-auto">
           <div class="lg:grid lg:grid-cols-2 lg:gap-12 lg:items-center">
